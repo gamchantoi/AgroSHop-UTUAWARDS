@@ -25,8 +25,8 @@ Follow the instruction below if you want to install utuawards Agroshop using Git
     chmod -R 755 media
     chmod -R 755 engine/Shopware/Plugins/Community
 
-isntall database Shop1.sql to mysql server or PHPMYADMIN.
-Or Create Database shop1 and restore 151029184619.psc using Navicat MYSQL.
+    Install database Shop1.sql to mysql server or PHPMYADMIN.
+    Or Create Database shop1 and restore 151029184619.psc using Navicat MYSQL.
 
 Cheees..
 
