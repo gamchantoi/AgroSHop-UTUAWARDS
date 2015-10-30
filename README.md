@@ -1,41 +1,53 @@
-### Instalasi melalui Git
+### Shopware Server Requirements
 
-Ikuti instruksi di bawah ini jika Anda ingin menginstal Shopware 5 menggunakan Git.
+- PHP 5.4.0 or above
+- PHP's `cURL` and `GD` library
+- An Apache web server
+- Apache's `mod_rewrite` module
+- MySQL 5.5.0 or above
 
-1.) Clone repositori git ke lokasi yang diinginkan dengan menggunakan:
+### Installation via Git
 
-    git clone https://github.com/shopware/shopware.git
+Follow the instruction below if you want to install Shopware 5 using Git.
 
-Dalam kasus Anda ingin berkontribusi Shopware, garpu `5.1` cabang daripada kloning itu, dan membuat permintaan tarik melalui Github. Untuk informasi lebih lanjut silahkan baca bagian "Terlibat" dokumen ini.
+1.) Clone the git repository to the desired location using:
 
-2.) Mengatur hak akses direktori yang benar:
+    git clone https://github.com/shopware/shopware.git
 
-    chmod 755 config.php
-    chmod -R 755 var
-    chmod -R 755 web
-    chmod -R 755 file
-    chmod -R 755 Media
-    chmod -R 755 mesin / Shopware / Plugin / Komunitas
+In case you wish to contribute to Shopware, fork the `5.1` branch rather than cloning it, and create a pull request via Github. For further information please read the section "Get involved" of this document.
 
-Tergantung pada konfigurasi server Anda, mungkin perlu untuk mengatur seluruh hak akses write (777) untuk file dan folder di atas.
-Anda juga dapat memulai pengujian dengan izin rendah karena alasan keamanan (644 misalnya) selama proses php Anda dapat menulis ke file-file.
+2.) Set the correct directory permissions:
 
-3.) Sebuah [Ant] (http://ant.apache.org/) Buildfile digunakan untuk mengatur konfigurasi dan koneksi database:
+    chmod 755 config.php
+    chmod -R 755 var
+    chmod -R 755 web
+    chmod -R 755 files
+    chmod -R 755 media
+    chmod -R 755 engine/Shopware/Plugins/Community
 
-    cd membangun /
-    configure ant
-    ant build-Unit
+Depending on your server configuration, it might be necessary to set whole write permissions (777) to the files and folders above.
+You can also start testing with lower permissions due to security reasons (644 for example) as long as your php process can write to those files.
 
-4.) Download citra uji dan ekstrak mereka:
+3.) An [Ant](http://ant.apache.org/) Buildfile is used to set up the configuration and database connection:
 
-Pergi ke direktori checkout dan men-download gambar tes:
+    cd build/
+    ant configure
+    ant build-unit
 
-wget -O test_images.zip http://releases.s3.shopware.com/test_images.zip
+4.) Download the test images and extract them:
 
-Unzip file ke direktori checkout:
+Go to the checkout directory and download the test images:
 
-test_images.zip unzip
+	wget -O test_images.zip http://releases.s3.shopware.com/test_images.zip
 
-Sekarang Anda dapat mengakses toko Anda
+Unzip the files to the checkout directory:
 
-Backend Login: demo / demo
+	unzip test_images.zip
+
+You can now access your shop
+
+Backend Login: demo/demo
+
+The test_images.zip file includes thumbnails for the new responsive theme and the old deprecated template.
+
+If you want to have full featured demo data, you should download the respective demo data plugin in the First Run Wizard or in the Plugin Manager.
