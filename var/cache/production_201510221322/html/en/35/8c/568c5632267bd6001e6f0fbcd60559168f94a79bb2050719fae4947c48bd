@@ -1,0 +1,63 @@
+
+
+    <div class="offcanvas--overlay">
+
+        
+            <div class="overlay--headline">
+                
+                    <a class="navigation--link link--go-main" href="#" title="main menu">
+                        <i class="icon--menu"></i> main menu
+                    </a>
+                
+            </div>
+        
+
+        
+            <div class="overlay--category">
+                
+                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/ikan-dan-olahan-nya/" title="Ikan dan olahan nya">
+                        <?php echo "<s"; ?>pan class="category--headline">Ikan dan olahan nya</span>
+                    </a>
+                
+            </div>
+        
+
+        
+            <ul class="sidebar--navigation categories--sublevel navigation--list" role="menu">
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="/widgets/listing/getCategory/categoryId/18" data-parentId="18" class="navigation--link is--back-button link--go-back" title="sebelumnya">
+                                
+                                    <?php echo "<s"; ?>pan class="is--icon-left">
+                                        <i class="icon--arrow-left"></i>
+                                    </span>
+                                
+
+                                
+                                    sebelumnya
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/ikan-dan-olahan-nya/" title="  Ikan dan olahan nya Tampilkan" class="navigation--link is--display-button">
+                                
+                                      Ikan dan olahan nya Tampilkan
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                            </ul>
+        
+    </div>

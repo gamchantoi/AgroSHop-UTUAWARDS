@@ -1,0 +1,94 @@
+{
+    "previousProduct": {
+        "orderNumber": "SW10017",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=183\u0026sCategory=5",
+        "name": "Ubi Kayu Suak Puntong",
+        "image": {
+            "id": 633,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/8d\/ca\/2d\/sampeu.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 483,
+            "height": 234,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/95\/84\/48\/sampeu_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/1d\/22\/a9\/sampeu_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/95\/84\/48\/sampeu_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/1d\/22\/a9\/sampeu_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/61\/2b\/dc\/sampeu_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/e4\/3a\/26\/sampeu_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/61\/2b\/dc\/sampeu_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/e4\/3a\/26\/sampeu_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/a6\/99\/07\/sampeu_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/50\/32\/2a\/sampeu_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/a6\/99\/07\/sampeu_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/50\/32\/2a\/sampeu_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/buah-buahan\/183\/ubi-kayu-suak-puntong?c=5"
+    },
+    "nextProduct": {
+        "orderNumber": "SW10015",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=181\u0026sCategory=5",
+        "name": "Jambu Jambak (Jambu BOL)",
+        "image": {
+            "id": 630,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/8e\/05\/e4\/jambu-bol-candy-stripe-100cm.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 774,
+            "height": 692,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/3e\/bd\/3c\/jambu-bol-candy-stripe-100cm_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/17\/df\/05\/jambu-bol-candy-stripe-100cm_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/3e\/bd\/3c\/jambu-bol-candy-stripe-100cm_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/17\/df\/05\/jambu-bol-candy-stripe-100cm_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/73\/4e\/21\/jambu-bol-candy-stripe-100cm_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/cb\/b0\/75\/jambu-bol-candy-stripe-100cm_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/73\/4e\/21\/jambu-bol-candy-stripe-100cm_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/cb\/b0\/75\/jambu-bol-candy-stripe-100cm_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/3a\/7e\/f1\/jambu-bol-candy-stripe-100cm_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/c5\/41\/e4\/jambu-bol-candy-stripe-100cm_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/3a\/7e\/f1\/jambu-bol-candy-stripe-100cm_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/c5\/41\/e4\/jambu-bol-candy-stripe-100cm_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": {
+                "attribute1": "",
+                "attribute2": "",
+                "attribute3": ""
+            }
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/buah-buahan\/181\/jambu-jambak-jambu-bol?c=5"
+    },
+    "currentListing": {
+        "position": 2,
+        "totalCount": 12,
+        "link": "shopware.php?sViewport=cat\u0026sCategory=5",
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/"
+    }
+}

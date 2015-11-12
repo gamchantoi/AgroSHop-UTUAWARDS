@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html class="no-js" lang="id" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="" />
+<meta name="robots" content="index,follow" />
+<meta name="revisit-after" content="15 days" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Agro SHop" />
+<meta property="og:title" content="Agro SHop" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" />
+<meta name="twitter:card" content="website" />
+<meta name="twitter:site" content="Agro SHop" />
+<meta name="twitter:title" content="Agro SHop" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" />
+<meta itemprop="copyrightHolder" content="Agro SHop" />
+<meta itemprop="copyrightYear" content="2015" />
+<meta itemprop="isFamilyFriendly" content="True" />
+<meta itemprop="image" content="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Agro SHop">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="fragment" content="!">
+<meta name="apple-mobile-web-app-status-bar-style" content="none">
+<link rel="apple-touch-icon-precomposed" href="/themes/Frontend/Responsive/frontend/_public/src/img/apple-touch-icon-precomposed.png">
+<link rel="shortcut icon" href="/themes/Frontend/Responsive/frontend/_public/src/img/favicon.ico">
+<meta name="msapplication-navbutton-color" content="" />
+<meta name="application-name" content="Agro SHop" />
+<meta name="msapplication-starturl" content="http://utuawards.agrotrail.com/" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-TileImage" content="/themes/Frontend/Responsive/frontend/_public/src/img/win-tile-image.png">
+<meta name="msapplication-TileColor" content="">
+<meta name="theme-color" content="" />
+<link rel="canonical" href="http://utuawards.agrotrail.com/" />
+<title itemprop="name">Agro SHop</title>
+<link href="/web/cache/1446020211_75dccbcffe79383bb26592bbeb39f818.css" media="all" rel="stylesheet" type="text/css" />
+<?php echo "<s"; ?>cript src="/themes/Frontend/Responsive/frontend/_public/src/js/vendors/modernizr/modernizr.custom.35977.js"></script>
+</head>
+<body class="is--ctl-index is--act-index">
+<div class="page-wrap">
+<noscript class="noscript-main">
+<div class="alert is--warning">
+<div class="alert--icon">
+<i class="icon--element icon--warning"></i>
+</div>
+<div class="alert--content">
+Agro SHop demi kenyamanan belanja anda mohon aktifkan Javascript di browser Anda.
+</div>
+</div>
+</noscript>
+<header class="header-main">
+<div class="top-bar">
+<div class="container block-group">
+<nav class="top-bar--navigation block" role="menubar">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=shopMenu', '', false) ?>
+
+<div class="navigation--entry entry--compare is--hidden" role="menuitem" aria-haspopup="true" data-drop-down-menu="true">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=compare', '', false) ?>
+
+</div>
+<div class="navigation--entry entry--service has--drop-down" role="menuitem" aria-haspopup="true" data-drop-down-menu="true">
+<i class="icon--service"></i> Layanan / Bantuan
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=menu&group=gLeft', '', false) ?>
+
+</div>
+</nav>
+</div>
+</div>
+<div class="container header--navigation">
+<div class="logo-main block-group" role="banner">
+<div class="logo--shop block">
+<a class="logo--link" href="http://utuawards.agrotrail.com/" title="Agro SHop - pergi ke Home">
+<picture>
+<?php echo "<s"; ?>ource srcset="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" media="(min-width: 78.75em)">
+<?php echo "<s"; ?>ource srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--tablet.png" media="(min-width: 64em)">
+<?php echo "<s"; ?>ource srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--tablet.png" media="(min-width: 48em)">
+<img srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--mobile.png" alt="Agro SHop - pergi ke Home" />
+</picture>
+</a>
+</div>
+<div class="logo--supportinfo block">
+<?php echo "<s"; ?>trong>Layanan Informasi ?Hubungi</strong><br /><?php echo "<s"; ?>trong>081229671996</strong> <?php echo "<s"; ?>mall>Setiap hari kerja pukul 08:00wib -16:00Wib</small>
+</div>
+</div>
+<nav class="shop--navigation block-group">
+<ul class="navigation--list block-group" role="menubar">
+<li class="navigation--entry entry--menu-left" role="menuitem">
+<a class="entry--link entry--trigger btn is--icon-left" href="#offcanvas--left" data-offcanvas="true" data-offCanvasSelector=".sidebar-main">
+<i class="icon--menu"></i> Menu
+</a>
+</li>
+<li class="navigation--entry entry--search" role="menuitem" data-search="true" aria-haspopup="true">
+<a class="btn entry--link entry--trigger" href="#show-hide--search" title="Tampilkan / Tutup">
+<i class="icon--search"></i>
+<?php echo "<s"; ?>pan class="search--display">pencarian</span>
+</a>
+<form action="/search" method="get" class="main-search--form">
+<input type="search" name="sSearch" class="main-search--field" autocomplete="off" autocapitalize="off" placeholder="Cari produk yang kamu inginkan" maxlength="30" />
+<button type="submit" class="main-search--button">
+<i class="icon--search"></i>
+<?php echo "<s"; ?>pan class="main-search--text">pencarian</span>
+</button>
+<div class="form--ajax-loader">&nbsp;</div>
+</form>
+<div class="main-search--results"></div>
+</li>
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=checkout&action=info', '', false) ?>
+
+</ul>
+</nav>
+<div class="container--ajax-cart" data-collapse-cart="true" data-displayMode="offcanvas"></div>
+</div>
+</header>
+<nav class="navigation-main">
+<div class="container" data-menu-scroller="true" data-listSelector=".navigation--list.container" data-viewPortSelector=".navigation--list-wrapper">
+<div class="navigation--list-wrapper">
+<ul class="navigation--list container" role="menubar" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<li class="navigation--entry is--active is--home" role="menuitem"><a class="navigation--link is--first active" href="http://utuawards.agrotrail.com/" title="Home" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Home</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/produk-pertanian/" title="Produk Pertanian" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Pertanian</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/produk-perikanan/" title="Produk Perikanan" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Perikanan</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/produk-kreatif/" title="Produk Kreatif" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Kreatif</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/blog-und-tren/" title="Blog & Tren" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Blog & Tren</span></a></li>    </ul>
+</div>
+</div>
+</nav>
+<div class="emotion--overlay">
+<i class="emotion--loading-indicator"></i>
+</div>
+<?php echo "<s"; ?>ection class="content-main container block-group">
+<div class="content-main--inner">
+<aside class="sidebar-main off-canvas">
+<div class="navigation--smartphone">
+<ul class="navigation--list ">
+<li class="navigation--entry entry--close-off-canvas">
+<a href="#close-categories-menu" title="Tutup menu" class="navigation--link">
+Tutup menu <i class="icon--arrow-right"></i>
+</a>
+</li>
+<div class="mobile--switches">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=shopMenu', '', false) ?>
+
+</div>
+</ul>
+</div>
+<div class="sidebar--categories-wrapper" data-subcategory-nav="true" data-mainCategoryId="3" data-categoryId="3" data-fetchUrl="/widgets/listing/getCategory/categoryId/3">
+<div class="categories--headline navigation--headline">
+Kategori
+</div>
+<div class="sidebar--categories-navigation">
+<ul class="sidebar--navigation categories--navigation navigation--list is--drop-down is--level0 is--rounded" role="menu">
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-pertanian/" data-categoryId="5" data-fetchUrl="/widgets/listing/getCategory/categoryId/5" title="Produk Pertanian">
+Produk Pertanian
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-perikanan/" data-categoryId="6" data-fetchUrl="/widgets/listing/getCategory/categoryId/6" title="Produk Perikanan">
+Produk Perikanan
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-kreatif/" data-categoryId="7" data-fetchUrl="/widgets/listing/getCategory/categoryId/7" title="Produk Kreatif">
+Produk Kreatif
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/blog-und-tren/" data-categoryId="36" data-fetchUrl="/widgets/listing/getCategory/categoryId/36" title="Blog &amp; Tren">
+Blog & Tren
+</a>
+</li>
+</ul>
+</div>
+<div class="shop-sites--container is--rounded">
+<div class="shop-sites--headline navigation--headline">
+informasi
+</div>
+<ul class="shop-sites--navigation sidebar--navigation navigation--list is--drop-down is--level0" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/registerFC/index/sValidation/H" title="bantuan-Login" data-categoryId="21" data-fetchUrl="/widgets/listing/getCustomPage/pageId/21" >
+bantuan-Login
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/informasi-hukum" title="informasi  hukum" data-categoryId="43" data-fetchUrl="/widgets/listing/getCustomPage/pageId/43" >
+informasi  hukum
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/tentang-kami" title="Tentang Kami" data-categoryId="9" data-fetchUrl="/widgets/listing/getCustomPage/pageId/9" >
+Tentang Kami
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/kebijakan-privasi" title="Kebijakan Privasi" data-categoryId="7" data-fetchUrl="/widgets/listing/getCustomPage/pageId/7" >
+Kebijakan Privasi
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/syarat-syarat-ketentuan" title="syarat-syarat ketentuan" data-categoryId="4" data-fetchUrl="/widgets/listing/getCustomPage/pageId/4" >
+syarat-syarat ketentuan
+</a>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+<div class="content--wrapper">
+<div class="content content--home">
+<div class="content--emotions">
+<div class="emotion--wrapper" data-controllerUrl="/widgets/emotion/index/emotionId/4/controllerName/index" data-availableDevices="0,1,2">
+</div>
+<div class="emotion--wrapper" data-controllerUrl="/widgets/emotion/index/emotionId/6/controllerName/index" data-availableDevices="3,4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer-main">
+<div class="container">
+<div class="footer--columns block-group">
+<div class="footer--column column--hotline is--first block">
+<div class="column--headline">Service Hotline</div>
+<div class="column--content">
+<p class="column--desc">Layanan Informasi dan Kontak Telepon Hubungi:<br /><br /><a href="tel:+6281229671996" class="footer--phone-link">6281229671996</a><br/>setiap hari Kerja Senin-Jum'at Pukul 08:00Wib - 18:00Wib</p>
+</div>
+</div>
+<div class="footer--column column--menu block">
+<div class="column--headline">Shop Service</div>
+<nav class="column--navigation column--content">
+<ul class="navigation--list" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/defektes-produkt" title="Barang Cacat" target="_self">
+Barang Cacat
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/informasi-hukum" title="informasi  hukum">
+informasi  hukum
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/syarat-syarat-ketentuan" title="syarat-syarat ketentuan">
+syarat-syarat ketentuan
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="footer--column column--menu block">
+<div class="column--headline">informasi</div>
+<nav class="column--navigation column--content">
+<ul class="navigation--list" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/newsletter" title="Newsletter">
+Newsletter
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/tentang-kami" title="Tentang Kami">
+Tentang Kami
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/kebijakan-privasi" title="Kebijakan Privasi">
+Kebijakan Privasi
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="footer--column column--newsletter is--last block">
+<div class="column--headline">Newsletter</div>
+<div class="column--content">
+<p class="column--desc">
+Berlangganan Buletin Gratis, jangan sampai lewatkan setiap berita dan informasi Terbaru.
+</p>
+<form class="newsletter--form" action="http://utuawards.agrotrail.com/newsletter" method="post">
+<input type="hidden" value="1" name="subscribeToNewsletter" />
+<input type="email" name="newsletter" class="newsletter--field" placeholder="Alamat email Anda" />
+<button type="submit" class="newsletter--button btn">
+<i class="icon--mail"></i> <?php echo "<s"; ?>pan class="button--text">newsletter</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+<div class="footer--bottom">
+<div class="footer--vat-info">
+<p class="vat-info--text">
+* Semua harga belum termasukPajak PPN . <a title="biaya pengiriman" href="http://utuawards.agrotrail.com/custom/index/sCustom/6">biaya pengiriman</a> berbeda-beda sesuai tujuan. nomor resi di komfirmasi setelah pengiriman
+</p>
+</div>
+<div class="footer--copyright">
+Hak Cipta shopware AG - All rights reserved
+</div>
+<div class="footer--logo">
+<i class="icon--shopware"></i>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<?php echo "<s"; ?>cript type="text/javascript">
+//<![CDATA[
+var timeNow = 1447235106;
+var controller = controller || {
+'vat_check_enabled': '',
+'vat_check_required': '',
+'ajax_cart': 'http://utuawards.agrotrail.com/checkout/ajaxCart',
+'ajax_search': 'http://utuawards.agrotrail.com/ajax_search',
+'ajax_login': 'http://utuawards.agrotrail.com/account/ajax_login',
+'register': 'http://utuawards.agrotrail.com/register',
+'checkout': 'http://utuawards.agrotrail.com/checkout',
+'ajax_logout': 'http://utuawards.agrotrail.com/account/ajax_logout',
+'ajax_validate': 'http://utuawards.agrotrail.com/register',
+'ajax_add_article': 'http://utuawards.agrotrail.com/checkout/addArticle',
+'ajax_listing': '/widgets/Listing/ajaxListing',
+'ajax_cart_refresh': 'http://utuawards.agrotrail.com/checkout/ajaxAmount'
+};
+var snippets = snippets || {
+'noCookiesNotice': 'Ditemukan bahwa cookies dinonaktifkan pada browser Anda.  Agro SHop Untuk menggunakan layanan secara penuh, kami sarankan Anda Aktifkan cookies di browser Anda.'
+};
+var themeConfig = themeConfig || {
+'offcanvasOverlayPage': '1'
+};
+var lastSeenProductsConfig = lastSeenProductsConfig || {
+'baseUrl': '',
+'shopId': '1',
+'noPicture': '/themes/Frontend/Responsive/frontend/_public/src/img/no-picture.jpg',
+'productLimit': ~~('5'),
+'currentArticle': {}
+};
+//]]>
+</script>
+<?php echo "<s"; ?>cript src="/web/cache/1446020211_75dccbcffe79383bb26592bbeb39f818.js"></script>
+<?php echo "<s"; ?>cript>
+(function($) {
+var cok = document.cookie.match(/session-1=([^;])+/g),
+sid = (cok && cok[0]) ? cok[0] : null,
+par = document.location.search.match(/sPartner=([^&])+/g),
+pid = (par && par[0]) ? par[0].substring(9) : null,
+cur = document.location.protocol + '//' + document.location.host,
+ref = document.referrer.indexOf(cur) === -1 ? document.referrer : null,
+url = "http://utuawards.agrotrail.com/widgets/index/refreshStatistic",
+pth = document.location.pathname.replace("/", "/");
+url = url.replace('https:', '');
+url = url.replace('http:', '');
+url += url.indexOf('?') === -1 ? '?' : '&';
+url += 'requestPage=' + encodeURI(pth);
+url += '&requestController=' + encodeURI("index");
+if(sid) { url += '&' + sid; }
+if(pid) { url += '&partner=' + pid; }
+if(ref) { url += '&referer=' + encodeURI(ref); }
+$.ajax({ url: url, dataType: 'jsonp'});
+})(jQuery);
+</script>
+</body>
+</html>

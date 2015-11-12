@@ -1,0 +1,99 @@
+
+
+    <div class="offcanvas--overlay">
+
+        
+            <div class="overlay--headline">
+                
+                    <a class="navigation--link link--go-main" href="#" title="main menu">
+                        <i class="icon--menu"></i> main menu
+                    </a>
+                
+            </div>
+        
+
+        
+            <div class="overlay--category">
+                
+                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/" title="Produksi Kelautan">
+                        <?php echo "<s"; ?>pan class="category--headline">Produksi Kelautan</span>
+                    </a>
+                
+            </div>
+        
+
+        
+            <ul class="sidebar--navigation categories--sublevel navigation--list" role="menu">
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="/widgets/listing/getCategory/categoryId/6" data-parentId="6" class="navigation--link is--back-button link--go-back" title="sebelumnya">
+                                
+                                    <?php echo "<s"; ?>pan class="is--icon-left">
+                                        <i class="icon--arrow-left"></i>
+                                    </span>
+                                
+
+                                
+                                    sebelumnya
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/" title="  Produksi Kelautan Tampilkan" class="navigation--link is--display-button">
+                                
+                                      Produksi Kelautan Tampilkan
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/ikan-dan-olahan-nya/" title="Ikan dan olahan nya"
+                                       class="navigation--link"
+                                       data-category-id="20"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/20">
+
+                                        
+                                            Ikan dan olahan nya
+                                        
+
+                                        
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/produk-hasil-laut-lainya/" title="Produk Hasil laut lainya"
+                                       class="navigation--link"
+                                       data-category-id="22"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/22">
+
+                                        
+                                            Produk Hasil laut lainya
+                                        
+
+                                        
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                            </ul>
+        
+    </div>

@@ -1,0 +1,90 @@
+{
+    "previousProduct": {
+        "orderNumber": "SW10008",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=174\u0026sCategory=10",
+        "name": "Pakis Seunagan",
+        "image": {
+            "id": 607,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/2b\/8c\/a3\/IMG_0008-Copy.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 1600,
+            "height": 1200,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/59\/37\/4b\/IMG_0008-Copy_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/45\/01\/5c\/IMG_0008-Copy_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/59\/37\/4b\/IMG_0008-Copy_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/45\/01\/5c\/IMG_0008-Copy_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/d9\/74\/34\/IMG_0008-Copy_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/e4\/ce\/69\/IMG_0008-Copy_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/d9\/74\/34\/IMG_0008-Copy_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/e4\/ce\/69\/IMG_0008-Copy_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/cc\/05\/ef\/IMG_0008-Copy_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/90\/80\/4d\/IMG_0008-Copy_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/cc\/05\/ef\/IMG_0008-Copy_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/90\/80\/4d\/IMG_0008-Copy_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/sayuran\/174\/pakis-seunagan?c=10"
+    },
+    "nextProduct": {
+        "orderNumber": "SW10003",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=169\u0026sCategory=10",
+        "name": "Jengkol Trans CImbring",
+        "image": {
+            "id": 586,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/04\/37\/27\/053466900_1435665595-jengkol.png",
+            "description": "",
+            "extension": "png",
+            "main": true,
+            "parentId": null,
+            "width": 673,
+            "height": 373,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/05\/80\/7e\/053466900_1435665595-jengkol_200x200.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/b3\/17\/cc\/053466900_1435665595-jengkol_200x200@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/05\/80\/7e\/053466900_1435665595-jengkol_200x200.png, http:\/\/utuawards.agrotrail.com\/media\/image\/b3\/17\/cc\/053466900_1435665595-jengkol_200x200@2x.png 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/dd\/40\/6b\/053466900_1435665595-jengkol_600x600.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/6c\/62\/52\/053466900_1435665595-jengkol_600x600@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/dd\/40\/6b\/053466900_1435665595-jengkol_600x600.png, http:\/\/utuawards.agrotrail.com\/media\/image\/6c\/62\/52\/053466900_1435665595-jengkol_600x600@2x.png 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/c5\/19\/f4\/053466900_1435665595-jengkol_1280x1280.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/e9\/d3\/b0\/053466900_1435665595-jengkol_1280x1280@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/c5\/19\/f4\/053466900_1435665595-jengkol_1280x1280.png, http:\/\/utuawards.agrotrail.com\/media\/image\/e9\/d3\/b0\/053466900_1435665595-jengkol_1280x1280@2x.png 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/sayuran\/169\/jengkol-trans-cimbring?c=10"
+    },
+    "currentListing": {
+        "position": 2,
+        "totalCount": 3,
+        "link": "shopware.php?sViewport=cat\u0026sCategory=10",
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/sayuran\/"
+    }
+}

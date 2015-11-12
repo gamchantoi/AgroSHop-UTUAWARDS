@@ -1,0 +1,49 @@
+{
+    "nextProduct": {
+        "orderNumber": "SW10005",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=171\u0026sCategory=22",
+        "name": "Gurita Asin",
+        "image": {
+            "id": 593,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/cf\/b8\/83\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 1024,
+            "height": 615,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/4b\/db\/8c\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/89\/90\/2a\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/4b\/db\/8c\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/89\/90\/2a\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/c0\/0d\/2e\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/c8\/cd\/48\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/c0\/0d\/2e\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/c8\/cd\/48\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/7d\/89\/bd\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/6e\/9f\/12\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/7d\/89\/bd\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/6e\/9f\/12\/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-perikanan\/ikan\/produk-hasil-laut\/171\/gurita-asin?c=22"
+    },
+    "currentListing": {
+        "position": 1,
+        "totalCount": 3,
+        "link": "shopware.php?sViewport=cat\u0026sCategory=22",
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-perikanan\/produksi-kelautan\/produk-hasil-laut-lainya\/"
+    }
+}

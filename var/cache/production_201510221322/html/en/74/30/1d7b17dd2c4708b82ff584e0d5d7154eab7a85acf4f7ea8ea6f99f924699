@@ -1,0 +1,42 @@
+
+	<li class="navigation--entry entry--notepad" role="menuitem">
+		<a href="http://utuawards.agrotrail.com/note" title="daftar keinginan" class="btn">
+			<i class="icon--heart"></i>
+					</a>
+	</li>
+
+
+
+
+	<li class="navigation--entry entry--account" role="menuitem">
+		
+			<a href="http://utuawards.agrotrail.com/account" title="account saya" class="btn is--icon-left entry--link account--link">
+				<i class="icon--account"></i>
+				<?php echo "<s"; ?>pan class="account--display">
+					account saya
+				</span>
+			</a>
+		
+	</li>
+
+
+
+
+	<li class="navigation--entry entry--cart" role="menuitem">
+		<a class="btn is--icon-left cart--link" href="http://utuawards.agrotrail.com/checkout/cart" title="perbelanjaan">
+			<?php echo "<s"; ?>pan class="cart--display">
+									perbelanjaan
+							</span>
+
+            <?php echo "<s"; ?>pan class="badge is--primary is--minimal cart--quantity is--hidden">0</span>
+
+			<i class="icon--basket"></i>
+
+			<?php echo "<s"; ?>pan class="cart--amount">
+				Rp 0,00 
+			</span>
+		</a>
+		<div class="ajax-loader">&nbsp;</div>
+	</li>
+
+

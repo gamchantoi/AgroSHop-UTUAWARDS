@@ -1,0 +1,27 @@
+    <ul class="service--list is--rounded" role="menu">
+                    <li class="service--entry" role="menuitem">
+                <a class="service--link" href="http://utuawards.agrotrail.com/registerFC/index/sValidation/H" title="bantuan-Login" >
+                    bantuan-Login
+                </a>
+            </li>
+                    <li class="service--entry" role="menuitem">
+                <a class="service--link" href="http://utuawards.agrotrail.com/informasi-hukum" title="informasi  hukum" >
+                    informasi  hukum
+                </a>
+            </li>
+                    <li class="service--entry" role="menuitem">
+                <a class="service--link" href="http://utuawards.agrotrail.com/tentang-kami" title="Tentang Kami" >
+                    Tentang Kami
+                </a>
+            </li>
+                    <li class="service--entry" role="menuitem">
+                <a class="service--link" href="http://utuawards.agrotrail.com/kebijakan-privasi" title="Kebijakan Privasi" >
+                    Kebijakan Privasi
+                </a>
+            </li>
+                    <li class="service--entry" role="menuitem">
+                <a class="service--link" href="http://utuawards.agrotrail.com/syarat-syarat-ketentuan" title="syarat-syarat ketentuan" >
+                    syarat-syarat ketentuan
+                </a>
+            </li>
+            </ul>

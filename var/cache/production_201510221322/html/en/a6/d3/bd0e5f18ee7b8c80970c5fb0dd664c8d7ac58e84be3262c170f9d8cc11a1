@@ -1,0 +1,99 @@
+
+
+    <div class="offcanvas--overlay">
+
+        
+            <div class="overlay--headline">
+                
+                    <a class="navigation--link link--go-main" href="#" title="main menu">
+                        <i class="icon--menu"></i> main menu
+                    </a>
+                
+            </div>
+        
+
+        
+            <div class="overlay--category">
+                
+                    <a href="http://utuawards.agrotrail.com/produk-pertanian/produk-olahan/" title="Produk Olahan">
+                        <?php echo "<s"; ?>pan class="category--headline">Produk Olahan</span>
+                    </a>
+                
+            </div>
+        
+
+        
+            <ul class="sidebar--navigation categories--sublevel navigation--list" role="menu">
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="/widgets/listing/getCategory/categoryId/5" data-parentId="5" class="navigation--link is--back-button link--go-back" title="sebelumnya">
+                                
+                                    <?php echo "<s"; ?>pan class="is--icon-left">
+                                        <i class="icon--arrow-left"></i>
+                                    </span>
+                                
+
+                                
+                                    sebelumnya
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-pertanian/produk-olahan/" title="  Produk Olahan Tampilkan" class="navigation--link is--display-button">
+                                
+                                      Produk Olahan Tampilkan
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-pertanian/produk-olahan/pertanian/" title="Pertanian"
+                                       class="navigation--link"
+                                       data-category-id="23"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/23">
+
+                                        
+                                            Pertanian
+                                        
+
+                                        
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-pertanian/produk-olahan/perkebunan/" title="Perkebunan"
+                                       class="navigation--link"
+                                       data-category-id="24"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/24">
+
+                                        
+                                            Perkebunan
+                                        
+
+                                        
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                            </ul>
+        
+    </div>

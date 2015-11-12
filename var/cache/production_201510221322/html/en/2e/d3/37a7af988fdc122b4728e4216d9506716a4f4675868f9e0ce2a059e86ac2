@@ -1,0 +1,105 @@
+
+
+    <div class="offcanvas--overlay">
+
+        
+            <div class="overlay--headline">
+                
+                    <a class="navigation--link link--go-main" href="#" title="main menu">
+                        <i class="icon--menu"></i> main menu
+                    </a>
+                
+            </div>
+        
+
+        
+            <div class="overlay--category">
+                
+                    <a href="http://utuawards.agrotrail.com/produk-perikanan/" title="Produk Perikanan">
+                        <?php echo "<s"; ?>pan class="category--headline">Produk Perikanan</span>
+                    </a>
+                
+            </div>
+        
+
+        
+            <ul class="sidebar--navigation categories--sublevel navigation--list" role="menu">
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="/widgets/listing/getCategory/categoryId/3" data-parentId="3" class="navigation--link is--back-button link--go-back" title="sebelumnya">
+                                
+                                    <?php echo "<s"; ?>pan class="is--icon-left">
+                                        <i class="icon--arrow-left"></i>
+                                    </span>
+                                
+
+                                
+                                    sebelumnya
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/" title="  Produk Perikanan Tampilkan" class="navigation--link is--display-button">
+                                
+                                      Produk Perikanan Tampilkan
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/" title="Produksi Kelautan"
+                                       class="navigation--link link--go-forward"
+                                       data-category-id="18"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/18">
+
+                                        
+                                            Produksi Kelautan
+                                        
+
+                                        
+                                                                                            <?php echo "<s"; ?>pan class="is--icon-right">
+                                                    <i class="icon--arrow-right"></i>
+                                                </span>
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                                    
+                                                    <li class="navigation--entry" role="menuitem">
+                                
+                                    <a href="http://utuawards.agrotrail.com/produk-perikanan/produk-air-tawar/" title="Produk Air Tawar"
+                                       class="navigation--link link--go-forward"
+                                       data-category-id="19"
+                                       data-fetchUrl="/widgets/listing/getCategory/categoryId/19">
+
+                                        
+                                            Produk Air Tawar
+                                        
+
+                                        
+                                                                                            <?php echo "<s"; ?>pan class="is--icon-right">
+                                                    <i class="icon--arrow-right"></i>
+                                                </span>
+                                                                                    
+                                    </a>
+                                
+                            </li>
+                                            
+                            </ul>
+        
+    </div>

@@ -1,0 +1,90 @@
+{
+    "previousProduct": {
+        "orderNumber": "SW10016",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=182\u0026sCategory=11",
+        "name": "Ubi Jalar Suak Putong",
+        "image": {
+            "id": 632,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/af\/d3\/f2\/ubi-jalar.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 680,
+            "height": 504,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/ce\/6b\/2d\/ubi-jalar_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/35\/d1\/60\/ubi-jalar_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/ce\/6b\/2d\/ubi-jalar_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/35\/d1\/60\/ubi-jalar_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/fb\/g0\/06\/ubi-jalar_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/21\/50\/ef\/ubi-jalar_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/fb\/g0\/06\/ubi-jalar_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/21\/50\/ef\/ubi-jalar_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/ff\/ea\/39\/ubi-jalar_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/25\/ea\/79\/ubi-jalar_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/ff\/ea\/39\/ubi-jalar_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/25\/ea\/79\/ubi-jalar_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/buah-buahan\/182\/ubi-jalar-suak-putong?c=11"
+    },
+    "nextProduct": {
+        "orderNumber": "SW10007",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=173\u0026sCategory=11",
+        "name": "Timun Mini Suak Puntong",
+        "image": {
+            "id": 603,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/d5\/60\/70\/timun563310bb725fc.jpg",
+            "description": "",
+            "extension": "jpg",
+            "main": true,
+            "parentId": null,
+            "width": 500,
+            "height": 375,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/68\/b1\/6e\/timun563310bb725fc_200x200.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/96\/00\/9b\/timun563310bb725fc_200x200@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/68\/b1\/6e\/timun563310bb725fc_200x200.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/96\/00\/9b\/timun563310bb725fc_200x200@2x.jpg 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/ac\/75\/a1\/timun563310bb725fc_600x600.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/57\/e2\/74\/timun563310bb725fc_600x600@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/ac\/75\/a1\/timun563310bb725fc_600x600.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/57\/e2\/74\/timun563310bb725fc_600x600@2x.jpg 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/0e\/db\/38\/timun563310bb725fc_1280x1280.jpg",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/44\/f7\/2f\/timun563310bb725fc_1280x1280@2x.jpg",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/0e\/db\/38\/timun563310bb725fc_1280x1280.jpg, http:\/\/utuawards.agrotrail.com\/media\/image\/44\/f7\/2f\/timun563310bb725fc_1280x1280@2x.jpg 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/buah-buahan\/173\/timun-mini-suak-puntong?c=11"
+    },
+    "currentListing": {
+        "position": 3,
+        "totalCount": 6,
+        "link": "shopware.php?sViewport=cat\u0026sCategory=11",
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/buah-buahan\/"
+    }
+}

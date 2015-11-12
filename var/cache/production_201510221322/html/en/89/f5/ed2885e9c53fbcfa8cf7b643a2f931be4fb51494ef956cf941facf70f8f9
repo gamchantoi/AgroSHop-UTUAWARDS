@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html class="no-js" lang="id" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="" />
+<meta name="robots" content="index,follow" />
+<meta name="revisit-after" content="15 days" />
+<meta name="keywords" content="Pakis Seunagan" />
+<meta name="description" content="Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan di bawah lingkungan yang teduh. Saat musim seminya..." />
+<meta property="og:type" content="product" />
+<meta property="og:site_name" content="Agro SHop" />
+<meta property="og:url" content="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan" />
+<meta property="og:title" content="Pakis Seunagan" />
+<meta property="og:description" content=" Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan di bawah lingkungan yang teduh. Saat musim seminya(sekitar April dan Mei), pakis akan menumbuhkan tunas daun muda yang masih kuncup dengan..." />
+<meta property="og:image" content="http://utuawards.agrotrail.com/media/image/2b/8c/a3/IMG_0008-Copy.jpg" />
+<meta property="product:brand" content="Seunagan Farmer" />
+<meta property="product:price" content="5000,00" />
+<meta property="product:product_link" content="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan" />
+<meta name="twitter:card" content="product" />
+<meta name="twitter:site" content="Agro SHop" />
+<meta name="twitter:title" content="Pakis Seunagan" />
+<meta name="twitter:description" content=" Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan di bawah lingkungan yang teduh. Saat musim seminya(sekitar April dan Mei), pakis akan menumbuhkan tunas daun muda yang masih kuncup dengan..." />
+<meta name="twitter:image" content="http://utuawards.agrotrail.com/media/image/2b/8c/a3/IMG_0008-Copy.jpg" />
+<meta itemprop="copyrightHolder" content="Agro SHop" />
+<meta itemprop="copyrightYear" content="2015" />
+<meta itemprop="isFamilyFriendly" content="True" />
+<meta itemprop="image" content="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Agro SHop">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta property="fb:app_id" content="796477337129449"/>
+<meta property="og:image" content="http://utuawards.agrotrail.com/media/image/59/37/4b/IMG_0008-Copy_200x200.jpg"/>
+<meta property="og:type" content="product"/>
+<meta property="og:url" content="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan"/>
+<meta property="og:title" content="Pakis Seunagan | Agro SHop"/>
+<meta property="og:description" content=" Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan di bawah lingkungan yang teduh. Saat musim seminya(sekitar April dan Mei), pakis akan menumbuhkan..."/>
+<meta name="apple-mobile-web-app-status-bar-style" content="none">
+<link rel="apple-touch-icon-precomposed" href="/themes/Frontend/Responsive/frontend/_public/src/img/apple-touch-icon-precomposed.png">
+<link rel="shortcut icon" href="/themes/Frontend/Responsive/frontend/_public/src/img/favicon.ico">
+<meta name="msapplication-navbutton-color" content="" />
+<meta name="application-name" content="Agro SHop" />
+<meta name="msapplication-starturl" content="http://utuawards.agrotrail.com/" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-TileImage" content="/themes/Frontend/Responsive/frontend/_public/src/img/win-tile-image.png">
+<meta name="msapplication-TileColor" content="">
+<meta name="theme-color" content="" />
+<link rel="canonical" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan" />
+<title itemprop="name">Pakis | Agro SHop</title>
+<link href="/web/cache/1446020211_75dccbcffe79383bb26592bbeb39f818.css" media="all" rel="stylesheet" type="text/css" />
+<?php echo "<s"; ?>cript src="/themes/Frontend/Responsive/frontend/_public/src/js/vendors/modernizr/modernizr.custom.35977.js"></script>
+</head>
+<body class="is--ctl-detail is--act-index">
+<div class="page-wrap">
+<noscript class="noscript-main">
+<div class="alert is--warning">
+<div class="alert--icon">
+<i class="icon--element icon--warning"></i>
+</div>
+<div class="alert--content">
+Agro SHop demi kenyamanan belanja anda mohon aktifkan Javascript di browser Anda.
+</div>
+</div>
+</noscript>
+<header class="header-main">
+<div class="top-bar">
+<div class="container block-group">
+<nav class="top-bar--navigation block" role="menubar">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=shopMenu', '', false) ?>
+
+<div class="navigation--entry entry--compare is--hidden" role="menuitem" aria-haspopup="true" data-drop-down-menu="true">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=compare', '', false) ?>
+
+</div>
+<div class="navigation--entry entry--service has--drop-down" role="menuitem" aria-haspopup="true" data-drop-down-menu="true">
+<i class="icon--service"></i> Layanan / Bantuan
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=menu&group=gLeft', '', false) ?>
+
+</div>
+</nav>
+</div>
+</div>
+<div class="container header--navigation">
+<div class="logo-main block-group" role="banner">
+<div class="logo--shop block">
+<a class="logo--link" href="http://utuawards.agrotrail.com/" title="Agro SHop - pergi ke Home">
+<picture>
+<?php echo "<s"; ?>ource srcset="http://utuawards.agrotrail.com/media/image/84/88/06/iklan.gif" media="(min-width: 78.75em)">
+<?php echo "<s"; ?>ource srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--tablet.png" media="(min-width: 64em)">
+<?php echo "<s"; ?>ource srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--tablet.png" media="(min-width: 48em)">
+<img srcset="/themes/Frontend/Responsive/frontend/_public/src/img/logos/logo--mobile.png" alt="Agro SHop - pergi ke Home" />
+</picture>
+</a>
+</div>
+<div class="logo--supportinfo block">
+<?php echo "<s"; ?>trong>Layanan Informasi ?Hubungi</strong><br /><?php echo "<s"; ?>trong>081229671996</strong> <?php echo "<s"; ?>mall>Setiap hari kerja pukul 08:00wib -16:00Wib</small>
+</div>
+</div>
+<nav class="shop--navigation block-group">
+<ul class="navigation--list block-group" role="menubar">
+<li class="navigation--entry entry--menu-left" role="menuitem">
+<a class="entry--link entry--trigger btn is--icon-left" href="#offcanvas--left" data-offcanvas="true" data-offCanvasSelector=".sidebar-main">
+<i class="icon--menu"></i> Menu
+</a>
+</li>
+<li class="navigation--entry entry--search" role="menuitem" data-search="true" aria-haspopup="true">
+<a class="btn entry--link entry--trigger" href="#show-hide--search" title="Tampilkan / Tutup">
+<i class="icon--search"></i>
+<?php echo "<s"; ?>pan class="search--display">pencarian</span>
+</a>
+<form action="/search" method="get" class="main-search--form">
+<input type="search" name="sSearch" class="main-search--field" autocomplete="off" autocapitalize="off" placeholder="Cari produk yang kamu inginkan" maxlength="30" />
+<button type="submit" class="main-search--button">
+<i class="icon--search"></i>
+<?php echo "<s"; ?>pan class="main-search--text">pencarian</span>
+</button>
+<div class="form--ajax-loader">&nbsp;</div>
+</form>
+<div class="main-search--results"></div>
+</li>
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=checkout&action=info', '', false) ?>
+
+</ul>
+</nav>
+<div class="container--ajax-cart" data-collapse-cart="true" data-displayMode="offcanvas"></div>
+</div>
+</header>
+<nav class="navigation-main">
+<div class="container" data-menu-scroller="true" data-listSelector=".navigation--list.container" data-viewPortSelector=".navigation--list-wrapper">
+<div class="navigation--list-wrapper">
+<ul class="navigation--list container" role="menubar" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<li class="navigation--entry is--home" role="menuitem"><a class="navigation--link is--first" href="http://utuawards.agrotrail.com/" title="Home" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Home</span></a></li><li class="navigation--entry is--active" role="menuitem"><a class="navigation--link is--active" href="http://utuawards.agrotrail.com/produk-pertanian/" title="Produk Pertanian" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Pertanian</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/produk-perikanan/" title="Produk Perikanan" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Perikanan</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/produk-kreatif/" title="Produk Kreatif" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Produk Kreatif</span></a></li><li class="navigation--entry" role="menuitem"><a class="navigation--link" href="http://utuawards.agrotrail.com/blog-und-tren/" title="Blog & Tren" itemprop="url"><?php echo "<s"; ?>pan itemprop="name">Blog & Tren</span></a></li>    </ul>
+</div>
+</div>
+</nav>
+<?php echo "<s"; ?>ection class="content-main container block-group">
+<nav class="content--breadcrumb block">
+<a class="breadcrumb--button breadcrumb--link" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" title="Detail">
+<i class="icon--arrow-left"></i>
+<?php echo "<s"; ?>pan class="breadcrumb--title">Detail</span>
+</a>
+<ul class="breadcrumb--list" role="menu" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="breadcrumb--entry" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="breadcrumb--link" href="http://utuawards.agrotrail.com/produk-pertanian/" title="Produk Pertanian" itemprop="item">
+<link itemprop="url" href="http://utuawards.agrotrail.com/produk-pertanian/" />
+<?php echo "<s"; ?>pan class="breadcrumb--title" itemprop="name">Produk Pertanian</span>
+</a>
+<meta itemprop="position" content="0" />
+</li>
+<li class="breadcrumb--separator">
+<i class="icon--arrow-right"></i>
+</li>
+<li class="breadcrumb--entry" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="breadcrumb--link" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/" title="Sayuran Dan Buah" itemprop="item">
+<link itemprop="url" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/" />
+<?php echo "<s"; ?>pan class="breadcrumb--title" itemprop="name">Sayuran Dan Buah</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="breadcrumb--separator">
+<i class="icon--arrow-right"></i>
+</li>
+<li class="breadcrumb--entry is--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a class="breadcrumb--link" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" title="Sayuran" itemprop="item">
+<link itemprop="url" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" />
+<?php echo "<s"; ?>pan class="breadcrumb--title" itemprop="name">Sayuran</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+</ul>
+</nav>
+<nav class="product--navigation">
+<a href="#" class="navigation--link link--prev">
+<div class="link--prev-button">
+<?php echo "<s"; ?>pan class="link--prev-inner">sebelumnya</span>
+</div>
+<div class="image--wrapper">
+<div class="image--container"></div>
+</div>
+</a>
+<a href="#" class="navigation--link link--next">
+<div class="link--next-button">
+<?php echo "<s"; ?>pan class="link--next-inner">Kepada</span>
+</div>
+<div class="image--wrapper">
+<div class="image--container"></div>
+</div>
+</a>
+</nav>
+<div class="content-main--inner">
+<aside class="sidebar-main off-canvas">
+<div class="navigation--smartphone">
+<ul class="navigation--list ">
+<li class="navigation--entry entry--close-off-canvas">
+<a href="#close-categories-menu" title="Tutup menu" class="navigation--link">
+Tutup menu <i class="icon--arrow-right"></i>
+</a>
+</li>
+<div class="mobile--switches">
+<?php echo $this->surrogate->handle($this, '/?module=widgets&controller=index&action=shopMenu', '', false) ?>
+
+</div>
+</ul>
+</div>
+<div class="sidebar--categories-wrapper" data-subcategory-nav="true" data-mainCategoryId="3" data-categoryId="10" data-fetchUrl="/widgets/listing/getCategory/categoryId/10">
+<div class="categories--headline navigation--headline">
+Kategori
+</div>
+<div class="sidebar--categories-navigation">
+<ul class="sidebar--navigation categories--navigation navigation--list is--drop-down is--level0 is--rounded" role="menu">
+<li class="navigation--entry is--active has--sub-categories has--sub-children" role="menuitem">
+<a class="navigation--link is--active has--sub-categories link--go-forward" href="http://utuawards.agrotrail.com/produk-pertanian/" data-categoryId="5" data-fetchUrl="/widgets/listing/getCategory/categoryId/5" title="Produk Pertanian">
+Produk Pertanian
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+<ul class="sidebar--navigation categories--navigation navigation--list is--level1 is--rounded" role="menu">
+<li class="navigation--entry is--active has--sub-categories has--sub-children" role="menuitem">
+<a class="navigation--link is--active has--sub-categories link--go-forward" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/" data-categoryId="8" data-fetchUrl="/widgets/listing/getCategory/categoryId/8" title="Sayuran Dan Buah">
+Sayuran Dan Buah
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+<ul class="sidebar--navigation categories--navigation navigation--list is--level2 navigation--level-high is--rounded" role="menu">
+<li class="navigation--entry is--active" role="menuitem">
+<a class="navigation--link is--active" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" data-categoryId="10" data-fetchUrl="/widgets/listing/getCategory/categoryId/10" title="Sayuran">
+Sayuran
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/buah-buahan/" data-categoryId="11" data-fetchUrl="/widgets/listing/getCategory/categoryId/11" title="Buah Buahan">
+Buah Buahan
+</a>
+</li>
+</ul>
+</li>
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-pertanian/produk-olahan/" data-categoryId="21" data-fetchUrl="/widgets/listing/getCategory/categoryId/21" title="Produk Olahan">
+Produk Olahan
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-perikanan/" data-categoryId="6" data-fetchUrl="/widgets/listing/getCategory/categoryId/6" title="Produk Perikanan">
+Produk Perikanan
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+<li class="navigation--entry has--sub-children" role="menuitem">
+<a class="navigation--link link--go-forward" href="http://utuawards.agrotrail.com/produk-kreatif/" data-categoryId="7" data-fetchUrl="/widgets/listing/getCategory/categoryId/7" title="Produk Kreatif">
+Produk Kreatif
+<?php echo "<s"; ?>pan class="is--icon-right">
+<i class="icon--arrow-right"></i>
+</span>
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/blog-und-tren/" data-categoryId="36" data-fetchUrl="/widgets/listing/getCategory/categoryId/36" title="Blog &amp; Tren">
+Blog & Tren
+</a>
+</li>
+</ul>
+</div>
+<div class="shop-sites--container is--rounded">
+<div class="shop-sites--headline navigation--headline">
+informasi
+</div>
+<ul class="shop-sites--navigation sidebar--navigation navigation--list is--drop-down is--level0" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/registerFC/index/sValidation/H" title="bantuan-Login" data-categoryId="21" data-fetchUrl="/widgets/listing/getCustomPage/pageId/21" >
+bantuan-Login
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/informasi-hukum" title="informasi  hukum" data-categoryId="43" data-fetchUrl="/widgets/listing/getCustomPage/pageId/43" >
+informasi  hukum
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/tentang-kami" title="Tentang Kami" data-categoryId="9" data-fetchUrl="/widgets/listing/getCustomPage/pageId/9" >
+Tentang Kami
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/kebijakan-privasi" title="Kebijakan Privasi" data-categoryId="7" data-fetchUrl="/widgets/listing/getCustomPage/pageId/7" >
+Kebijakan Privasi
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/syarat-syarat-ketentuan" title="syarat-syarat ketentuan" data-categoryId="4" data-fetchUrl="/widgets/listing/getCustomPage/pageId/4" >
+syarat-syarat ketentuan
+</a>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+<div class="content--wrapper">
+<div class="content product--details" itemscope itemtype="http://schema.org/Product" data-product-navigation="/widgets/listing/productNavigation" data-category-id="10" data-main-ordernumber="SW10008" data-ajax-wishlist="true" data-compare-ajax="true" data-ajax-variants-container="true">
+<header class="product--header">
+<div class="product--info">
+<h1 class="product--title" itemprop="name">
+Pakis Seunagan
+</h1>
+<div class="product--supplier">
+<a href="http://utuawards.agrotrail.com/seunagan-farmer/" title="Produk lebih dari Seunagan Farmer" class="product--supplier-link">
+<img src="http://utuawards.agrotrail.com/media/image/af/c5/d8/amplid_logo.jpg" alt="Seunagan Farmer">
+</a>
+</div>
+<div class="product--rating-container">
+<a href="#product--publish-comment" class="product--rating-link" rel="nofollow" title="Tulis Ulasan">
+<?php echo "<s"; ?>pan class="product--rating">
+</span>
+</a>
+</div>
+</div>
+</header>
+<div class="product--detail-upper block-group">
+<div class="product--image-container image-slider product--image-zoom" data-image-slider="true" data-image-gallery="true" data-maxZoom="0" data-thumbnails=".image--thumbnails" >
+<div class="image--thumbnails image-slider--thumbnails">
+<div class="image-slider--thumbnails-slide">
+<a href="" title="Preview: Pakis Seunagan" class="thumbnail--link is--active">
+<img srcset="http://utuawards.agrotrail.com/media/image/59/37/4b/IMG_0008-Copy_200x200.jpg, http://utuawards.agrotrail.com/media/image/45/01/5c/IMG_0008-Copy_200x200@2x.jpg 2x" alt="Preview: Pakis Seunagan" title="Preview: Pakis Seunagan" class="thumbnail--image" />
+</a>
+<a href="" title="Preview: Pakis Seunagan" class="thumbnail--link">
+<img srcset="http://utuawards.agrotrail.com/media/image/ab/4f/aa/IMG_0008563316a089791_200x200.jpg, http://utuawards.agrotrail.com/media/image/b4/e1/8b/IMG_0008563316a089791_200x200@2x.jpg 2x" alt="Preview: Pakis Seunagan" title="Preview: Pakis Seunagan" class="thumbnail--image" />
+</a>
+<a href="" title="Preview: Pakis Seunagan" class="thumbnail--link">
+<img srcset="http://utuawards.agrotrail.com/media/image/93/c1/23/sayuran-pakis-paku-pucuk-muda563316abefe86_200x200.jpg, http://utuawards.agrotrail.com/media/image/46/9d/a6/sayuran-pakis-paku-pucuk-muda563316abefe86_200x200@2x.jpg 2x" alt="Preview: Pakis Seunagan" title="Preview: Pakis Seunagan" class="thumbnail--image" />
+</a>
+</div>
+</div>
+<div class="image-slider--container"><div class="image-slider--slide"><div class="image--box image-slider--item"><?php echo "<s"; ?>pan class="image--element"data-img-large="http://utuawards.agrotrail.com/media/image/cc/05/ef/IMG_0008-Copy_1280x1280.jpg"data-img-small="http://utuawards.agrotrail.com/media/image/59/37/4b/IMG_0008-Copy_200x200.jpg"data-img-original="http://utuawards.agrotrail.com/media/image/2b/8c/a3/IMG_0008-Copy.jpg"data-alt="Pakis Seunagan"><?php echo "<s"; ?>pan class="image--media"><img srcset="http://utuawards.agrotrail.com/media/image/d9/74/34/IMG_0008-Copy_600x600.jpg, http://utuawards.agrotrail.com/media/image/e4/ce/69/IMG_0008-Copy_600x600@2x.jpg 2x" alt="Pakis Seunagan" itemprop="image" /></span></span></div><div class="image--box image-slider--item"><?php echo "<s"; ?>pan class="image--element"data-img-large="http://utuawards.agrotrail.com/media/image/5d/2d/56/IMG_0008563316a089791_1280x1280.jpg"data-img-small="http://utuawards.agrotrail.com/media/image/ab/4f/aa/IMG_0008563316a089791_200x200.jpg"data-img-original="http://utuawards.agrotrail.com/media/image/8f/a8/31/IMG_0008563316a089791.jpg"data-alt="Pakis Seunagan"><?php echo "<s"; ?>pan class="image--media"><img srcset="http://utuawards.agrotrail.com/media/image/4a/02/79/IMG_0008563316a089791_600x600.jpg, http://utuawards.agrotrail.com/media/image/a7/cf/68/IMG_0008563316a089791_600x600@2x.jpg 2x" alt="Pakis Seunagan" itemprop="image" /></span></span></div><div class="image--box image-slider--item"><?php echo "<s"; ?>pan class="image--element"data-img-large="http://utuawards.agrotrail.com/media/image/8a/66/30/sayuran-pakis-paku-pucuk-muda563316abefe86_1280x1280.jpg"data-img-small="http://utuawards.agrotrail.com/media/image/93/c1/23/sayuran-pakis-paku-pucuk-muda563316abefe86_200x200.jpg"data-img-original="http://utuawards.agrotrail.com/media/image/ec/15/d0/sayuran-pakis-paku-pucuk-muda563316abefe86.jpg"data-alt="Pakis Seunagan"><?php echo "<s"; ?>pan class="image--media"><img srcset="http://utuawards.agrotrail.com/media/image/b4/c7/3a/sayuran-pakis-paku-pucuk-muda563316abefe86_600x600.jpg, http://utuawards.agrotrail.com/media/image/86/a3/72/sayuran-pakis-paku-pucuk-muda563316abefe86_600x600@2x.jpg 2x" alt="Pakis Seunagan" itemprop="image" /></span></span></div></div></div>
+<div class="image--dots image-slider--dots panel--dot-nav">
+<a href="#" class="dot--link">&nbsp;</a>
+<a href="#" class="dot--link">&nbsp;</a>
+<a href="#" class="dot--link">&nbsp;</a>
+</div>
+</div>
+<div class="product--buybox block">
+<meta itemprop="brand" content="Seunagan Farmer"/>
+<div itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="buybox--inner">
+<meta itemprop="priceCurrency" content="IDR"/>
+<div class="product--price price--default">
+<?php echo "<s"; ?>pan class="price--content content--default">
+<meta itemprop="price" content="5000.00">
+Rp 5.000,00
+</span>
+</div>
+<div class='product--price price--unit'>
+<?php echo "<s"; ?>pan class="price--label label--purchase-unit">
+Isi:
+</span>
+100 Gram
+</div>
+<p class="product--tax" data-content="" data-modalbox="true" data-targetSelector="a" data-mode="ajax">
+PPN . <a title="biaya pengiriman" href="http://utuawards.agrotrail.com/custom/index/sCustom/6" style="text-decoration:underline">Ketentuan Biaya Pengiriman</a>
+</p>
+<div class="product--delivery">
+<link itemprop="availability" href="http://schema.org/InStock" />
+<p class="delivery--information">
+<?php echo "<s"; ?>pan class="delivery--text delivery--text-available">
+<i class="delivery--status-icon delivery--status-available"></i>
+Langsung Di kirim setelah pemesanan. waktu pengiriman 1-3 hari.
+</span>
+</p>
+</div>
+<div class="product--configurator">
+</div>
+<form name="sAddToBasket" method="post" action="http://utuawards.agrotrail.com/checkout/addArticle" class="buybox--form" data-add-article="true" data-eventName="submit" data-showModal="false" data-addArticleUrl="http://utuawards.agrotrail.com/checkout/ajaxAddArticleCart">
+<input type="hidden" name="sActionIdentifier" value=""/>
+<input type="hidden" name="sAddAccessories" id="sAddAccessories" value=""/>
+<input type="hidden" name="sAdd" value="SW10008"/>
+<div class="buybox--button-container block-group">
+<div class="buybox--quantity block">
+<?php echo "<s"; ?>elect id="sQuantity" name="sQuantity" class="quantity--select">
+<option value="1">1 ikat</option>
+<option value="2">2 ikat</option>
+<option value="3">3 ikat</option>
+<option value="4">4 ikat</option>
+<option value="5">5 ikat</option>
+<option value="6">6 ikat</option>
+<option value="7">7 ikat</option>
+<option value="8">8 ikat</option>
+<option value="9">9 ikat</option>
+<option value="10">10 ikat</option>
+</select>
+</div>
+<button class="buybox--button block btn is--primary is--icon-right is--center is--large" name="Tambahkan ke troli">
+Tambahkan ke troli <i class="icon--arrow-right"></i>
+</button>
+</div>
+</form>
+<nav class="product--actions">
+<a href="http://utuawards.agrotrail.com/compare/add_article/articleID/174" rel="nofollow" data-product-compare-add="true" title="membandingkan" class="action--link action--compare">
+<i class="icon--compare"></i> membandingkan
+</a>
+<a href="http://utuawards.agrotrail.com/note/add/ordernumber/SW10008" class="action--link link--notepad" rel="nofollow" title="Tambahkan ke daftar keinginan" data-ajaxUrl="http://utuawards.agrotrail.com/note/ajaxAdd/ordernumber/SW10008" data-text="ditandai">
+<i class="icon--heart"></i> <?php echo "<s"; ?>pan class="action--text">Tandai produk</span>
+</a>
+<a href="#content--product-reviews" data-show-tab="true" class="action--link link--publish-comment" rel="nofollow" title="Tulis Ulasan">
+<i class="icon--star"></i> lihat review
+</a>
+</nav>
+</div>
+<ul class="product--base-info list--unstyled">
+<li class="base-info--entry entry--sku">
+<?php echo "<s"; ?>trong class="entry--label">
+Produk No. :
+</strong>
+<meta itemprop="productID" content="761"/>
+<?php echo "<s"; ?>pan class="entry--content" itemprop="sku">
+SW10008
+</span>
+</li>
+<div class="SwagFacebook--LikeButtonContainer">
+<div id="fb-root"></div>
+<?php echo "<s"; ?>cript>
+(function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {
+return;
+}
+js = d.createElement(s);
+js.id = id;
+js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.3&appId=796477337129449";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-like" data-action="like" data-colorscheme="dark" data-href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan" data-layout="standard" data-ref="articleID:174" data-show-faces="true" data-share="true">
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="tab-menu--product">
+<div class="tab--navigation">
+<a href="#" class="tab--link" title="deskripsi">deskripsi</a>
+<a href="#" class="tab--link" title="ulasan">
+ulasan
+<?php echo "<s"; ?>pan class="product--rating-count">0</span>
+</a>
+</div>
+<div class="tab--container-list">
+<div class="tab--container">
+<div class="tab--header">
+<a href="#" class="tab--title" title="deskripsi">deskripsi</a>
+</div>
+<div class="tab--preview">
+Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan...<a href="#" class="tab--link" title="Tambah lagi">Tambah lagi</a>
+</div>
+<div class="tab--content">
+<div class="buttons--off-canvas">
+<a href="#" title="Tutup menu" class="close--off-canvas">
+<i class="icon--arrow-left"></i>
+Tutup menu
+</a>
+</div>
+<div class="content--description">
+<div class="content--title">
+Informasi Produk "Pakis Seunagan"
+</div>
+<div class="product--description" itemprop="description">
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Pakis adalah tanaman berbentuk rumpun , yang biasanya tumbuh baik didaerah kering dan lembab dan di bawah lingkungan yang teduh. Saat musim seminya(sekitar April dan Mei), pakis akan menumbuhkan tunas daun muda yang masih kuncup dengan bentuk ujung daun melengkung yang mirip dengan kepala biola. Daun pakis muda yang akan dimanfaatkan sebagai sayur biasanya sebelum daun tersebut menjadi mekar.</p>
+<div style="box-sizing: border-box; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; clear: both;">&nbsp;</div>
+<div class="adslot1" style="box-sizing: border-box; width: 340px; height: 300px; margin-top: 10px; margin-left: 20px; margin-bottom: 20px; float: right; overflow: hidden; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">
+<div style="box-sizing: border-box; color: #444444;">&nbsp;</div>
+<ins class="adsbygoogle" style="box-sizing: border-box; display: block; height: 280px; background: #fff9c0;" data-ad-client="ca-pub-3124347072945336" data-ad-slot="9264847609" data-ad-format="rectangle" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="box-sizing: border-box; display: inline-table; border: none; height: 280px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 340px; background: transparent;"><ins id="aswift_0_anchor" style="box-sizing: border-box; display: block; border: none; height: 280px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 340px; background: transparent;"><iframe frameborder="0" width="340" height="280" name="aswift_0" allowfullscreen="true" id="aswift_0" style="box-sizing: border-box; max-width: 100%; left: 0px; position: absolute; top: 0px; background: #ffffff;"></iframe></ins></ins></ins></div>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Pakis bertangkai hijau tua yang berukuran sekitar 4 cm, dengan mencapai ketinggian sekitar 10-12 cm dari permukaan tanah. Tunas ditutupi dengan sisik berwarna coklat, yang harus dikerok dulu sebelum dimasak. Daun pakis muda rasanya lembut, dengan rasa yang mirip dengan asparagus, atau buncis dengan tekstur yang renyah.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Sayur pakis (Diplazium esculentum), banyak dikenal dibeberapa negara sebagai sayuran, misalnya India, Nepal, hingga dibeberapa daerah di Amerika dan Kanada. Di indonesia sendiri daun pakis muda sudah lama dimanfaatkan sebagai sayuran yang cukup digemari, karena rasa dan teksturnya yang unik dan lezat.</p>
+<h2 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.2em; color: #444444; font-size: 20px; margin: 25px 0px;">Manfaat tunas daun Pakis bagi kesehatan</h2>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Pakis rendah kalori dan Mengandung Omega 3</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Pakis memiliki banyak kandungan nutrisi penting, namun Tunas pakis muda keriting hanya mengandung 34 kalori per 100 g. Meskipun demikian, pakis memiliki profil gizi yang berkualitas tinggi, seperti terdiri dari manfaat antioksidan, vitamin, serta senyawa penting lain yaitu&nbsp;<a style="box-sizing: border-box; color: #008ae6;" title="Sumber terbaik Omega 3 â€“ Manfaat Omega 3" href="http://www.tipscaramanfaat.com/sumber-terbaik-omega-3-manfaat-omega-3-874.html" rel="nofollow">omega-3</a>&nbsp;dan omega-6.</p>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Tinggi vitamin A</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Daun pakis segar sangat tinggi antioksidan vitamin A, dan karoten. 100 g pakis mengandung 3617 IU atau 120% kebutuhan harian vitamin A yang direkomendasikan. Vitamin A adalah anti-oksidan alami kuat dan diperlukan oleh tubuh untuk menjaga integritas kulit dan membran lendir. Vitamin A juga merupakan vitamin yang sangat penting untuk penglihatan. Studi penelitian menunjukkan bahwa makanan yang kaya vitamin A alami akan membantu tubuh terlindungi dari kanker paru-paru dan kanker rongga mulut.</p>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Mengandung senyawa flavonoid</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Pakis adalah sumber yang sangat baik dari banyak senyawa flavonoid poli-fenolik alami,&nbsp; seperti Alfa karoten dan Beta karoten. Karoten dalam tubuh mengkonversi ke vitamin A.</p>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Pakis Tinggi vitamin C</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Rasa pakis yang manis dan unik berasal dari tingginya vitamin C. 100 g daun pakis segar mengandung 26,6 mg atau 44% dari yang diperlukan tubuh dalam sehari. Vitamin C vitamin larut air yang potensial sebagai anti-oksidan. Bersama dengan senyawa flavonoid seperti karoten, Vitamin A membantu menangkal radikal bebas berbahaya, serta&nbsp; perlindungan dari kanker, peradangan, batuk, virus flu dan demam.</p>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Mengandung kalium tinggi</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Tunas daun pakis adalah sumber yang sangat baik dari mineral dan elektrolit, terutama&nbsp;<a style="box-sizing: border-box; color: #008ae6;" title="Akibat jika tubuh kekurangan kalium" href="http://www.tipscaramanfaat.com/akibat-jika-tubuh-kekurangan-kalium-301.html" rel="nofollow">kalium</a>, zat besi, mangan dan tembaga. 100 g tunas pakis segar mengandung 370 mg atau 7% dari level kalium yang dibutuhkan perhari. Kalium merupakan elektrolit yang baik bagi jantung, yaitu yang akan membantu untuk mengurangi tekanan darah dan detak jantung dengan melawan efek samping dari sodium.</p>
+<h3 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.3; color: #444444; font-size: 17px; margin: 20px 0px 0px;">Kaya beberapa jenis dari vitamin B Kompleks</h3>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Bukan hanya itu, pakis juga kaya vitamin esensial yang paling dibutuhkan oleh tubuh, yaitu beberapa vitamin dari kelompok vitamin B. Beberapa dari vitamin B kompleks tersebut adalah seperti niacin, riboflavin, dan thiamin.</p>
+<h2 style="box-sizing: border-box; font-family: Arial, Georgia, serif; line-height: 1.2em; color: #444444; font-size: 20px; margin: 25px 0px;">Kandungan gizi lengkap tunas daun pakis (Matteuccia struthioreris) muda&nbsp; mentah segar.</h2>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: #404040; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px;">Nilai gizi per 100 g – Presentasi Nilai Gizi (RDA)<br style="box-sizing: border-box;">(Sumber: USDA )</p>
+<table style="box-sizing: border-box; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #ededed; border-collapse: collapse; border-spacing: 0px; font-size: 12px; line-height: 2; margin: 0px 0px 20px; width: 750px; color: #404040; font-family: Arial, Helvetica, sans-serif;">
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td style="box-sizing: border-box; border-top-width: 1px; border-top-style: solid; border-top-color: #ededed; padding: 6px 10px 6px 0px;" valign="top">Energi 34 Kcal 1,7%<br style="box-sizing: border-box;">Karbohidrat 5,54 g 4%<br style="box-sizing: border-box;">Protein 4,55 g 8%<br style="box-sizing: border-box;">Total Lemak 0.40 g 2%<br style="box-sizing: border-box;">Kolesterol 0 mg 0%<br style="box-sizing: border-box;"><?php echo "<s"; ?>trong style="box-sizing: border-box;">Vitamin</strong><br style="box-sizing: border-box;">Niacin 4,980 mg 31%<br style="box-sizing: border-box;">Riboflavin 0.210 mg 16%<br style="box-sizing: border-box;">Thiamin 0.020 mg 1,5%<br style="box-sizing: border-box;">Vitamin A 3617 IU 120,5%<br style="box-sizing: border-box;">Vitamin C 26,6 mg 44%</td>
+<td style="box-sizing: border-box; border-top-width: 1px; border-top-style: solid; border-top-color: #ededed; padding: 6px 10px 6px 0px;" valign="top"><?php echo "<s"; ?>trong style="box-sizing: border-box;">Elektrolit</strong><br style="box-sizing: border-box;">Sodium 1 mg <1%<br style="box-sizing: border-box;">Kalium 370 mg 8%<br style="box-sizing: border-box;"><?php echo "<s"; ?>trong style="box-sizing: border-box;">Mineral</strong><br style="box-sizing: border-box;">Kalsium 32 mg 3%<br style="box-sizing: border-box;">Tembaga 0.320 mg 35,5%<br style="box-sizing: border-box;">Besi 1,31 mg 16%<br style="box-sizing: border-box;">Magnesium 34 mg 8,5%<br style="box-sizing: border-box;">Mangan 0.510 mg 22%<br style="box-sizing: border-box;">Selenium 0,7 mcg 1%<br style="box-sizing: border-box;">Zinc 0.83 mg 7,5%<br style="box-sizing: border-box;">Phyto-nutrisi<br style="box-sizing: border-box;">Karoten-ÃŸ 2040 ug –<br style="box-sizing: border-box;">Karoten-Î± 261Î¼g -</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="content--title">
+Lanjut ke kiri "Pakis Seunagan"
+</div>
+<ul class="content--list list--unstyled">
+<li class="list--entry">
+<a href="http://utuawards.agrotrail.com/informasi-tentang-produk-ini?sInquiry=detail&sOrdernumber=SW10008" rel="nofollow" class="content--link link--contact" title="Pertanyaan tentang produk ini?">
+<i class="icon--arrow-right"></i> Pertanyaan tentang produk ini?
+</a>
+</li>
+<li class="list--entry">
+<a href="http://utuawards.agrotrail.com/seunagan-farmer/" target="_parent" class="content--link link--supplier" title="Produk lebih dari Seunagan Farmer">
+<i class="icon--arrow-right"></i> Produk lebih dari Seunagan Farmer
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tab--container">
+<div class="tab--header">
+<a href="#" class="tab--title" title="ulasan">ulasan</a>
+<?php echo "<s"; ?>pan class="product--rating-count">0</span>
+</div>
+<div class="tab--preview">
+Membaca, menulis dan berdiskusi ulasan ...<a href="#" class="tab--link" title="Tambah lagi">Tambah lagi</a>
+</div>
+<div class="tab--content">
+<div class="buttons--off-canvas">
+<a href="#" title="Tutup menu" class="close--off-canvas">
+<i class="icon--arrow-left"></i>
+Tutup menu
+</a>
+</div>
+<div class="content--product-reviews" id="detail--product-reviews">
+<div class="content--title">
+Ulasan pelanggan untuk "Pakis Seunagan"
+</div>
+<div class="review--form-container">
+<div id="product--publish-comment" class="content--title">
+Tulis Ulasan
+</div>
+<div class="alert is--warning is--rounded">
+<div class="alert--icon">
+<i class="icon--element icon--warning"></i>
+</div>
+<div class="alert--content">
+Ulasan akan dirilis setelah verifikasi .
+</div>
+</div>
+<form method="post" action="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan?action=rating&amp;c=10#detail--product-reviews" class="content--form review--form">
+<input name="sVoteName" type="text" value="" class="review--field" placeholder="Nama Anda*" required="required" aria-required="true" />
+<input name="sVoteMail" type="email" value="" class="review--field" placeholder="Alamat e -mail Anda*" required="required" aria-required="true" />
+<input name="sVoteSummary" type="text" value="" id="sVoteSummary" class="review--field" placeholder="ringkasan*" required="required" aria-required="true" />
+<div class="field--select review--field">
+<?php echo "<s"; ?>pan class="arrow"></span>
+<?php echo "<s"; ?>elect name="sVoteStars">
+<option value="10">10 bintang</option>
+<option value="9">9</option>
+<option value="8">8</option>
+<option value="7">7</option>
+<option value="6">6</option>
+<option value="5">5</option>
+<option value="4">4</option>
+<option value="3">3</option>
+<option value="2">2</option>
+<option value="1">1 bintang</option>
+</select>
+</div>
+<textarea name="sVoteComment" placeholder="Pendapat Anda :" cols="3" rows="2" class="review--field"></textarea>
+<div class="review--captcha">
+<div class="captcha--placeholder" data-src="/widgets/Captcha/refreshCaptcha"></div>
+<?php echo "<s"; ?>trong class="captcha--notice">Masukkan kode nomor ke dalam kotak teks berikut .</strong>
+<div class="captcha--code">
+<input type="text" name="sCaptcha" class="review--field" required="required" aria-required="true" />
+</div>
+</div>
+<p class="review--notice">
+Yang ditandai dengan tanda * wajib diisi .
+</p>
+<div class="review--actions">
+<button type="submit" class="btn is--primary" name="Submit">
+Simpan
+</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-menu--cross-selling">
+<div class="tab--navigation">
+<a href="#content--similar-products" title="Produk serupa" class="tab--link">Produk serupa</a>
+<a href="#content--also-bought" title="Pelanggan lain juga membeli" class="tab--link">Pelanggan lain juga membeli</a>
+<a href="#content--customer-viewed" title="Pelanggan lain juga melihat" class="tab--link">Pelanggan lain juga melihat</a>
+</div>
+<div class="tab--container-list">
+<div class="tab--container">
+<div class="tab--header">
+<a href="#" class="tab--title" title="Produk serupa">Produk serupa</a>
+</div>
+<div class="tab--content content--similar">
+<div class="similar--content">
+<div class="product-slider" data-product-slider="true">
+<div class="product-slider--container">
+<div class="product-slider--item">
+<div class="product--box box--slider" data-page-index="" data-ordernumber="SW10003" data-category-id="10">
+<div class="box--content is--rounded">
+<div class="product--badges">
+<div class="product--badge badge--newcomer">
+BARU
+</div>
+</div>
+<div class="product--info">
+<a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/169/jengkol-trans-cimbring" title="Jengkol Trans CImbring" class="product--image">
+<?php echo "<s"; ?>pan class="image--element">
+<?php echo "<s"; ?>pan class="image--media">
+<img srcset="http://utuawards.agrotrail.com/media/image/05/80/7e/053466900_1435665595-jengkol_200x200.png, http://utuawards.agrotrail.com/media/image/b3/17/cc/053466900_1435665595-jengkol_200x200@2x.png 2x" alt="Jengkol Trans CImbring" title="Jengkol Trans CImbring" />
+</span>
+</span>
+</a>
+<a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/169/jengkol-trans-cimbring" class="product--title" title="Jengkol Trans CImbring">
+Jengkol Trans CImbring
+</a>
+<div class="product--price-info">
+<div class="price--unit">
+<?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+isi
+</span>
+<?php echo "<s"; ?>pan class="is--nowrap">
+1 Kilogram
+</span>
+</div>
+<div class="product--price">
+<?php echo "<s"; ?>pan class="price--default is--nowrap">
+Rp 80.000,00
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-slider--item">
+<div class="product--box box--slider" data-page-index="" data-ordernumber="SW10001" data-category-id="10">
+<div class="box--content is--rounded">
+<div class="product--badges">
+<div class="product--badge badge--newcomer">
+BARU
+</div>
+</div>
+<div class="product--info">
+<a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/167/kangkung-organik" title="Kangkung Organik" class="product--image">
+<?php echo "<s"; ?>pan class="image--element">
+<?php echo "<s"; ?>pan class="image--media">
+<img srcset="http://utuawards.agrotrail.com/media/image/d5/96/e4/kang-kong_200x200.png, http://utuawards.agrotrail.com/media/image/0e/89/d8/kang-kong_200x200@2x.png 2x" alt="Kangkung Organik" title="Kangkung Organik" />
+</span>
+</span>
+</a>
+<a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/167/kangkung-organik" class="product--title" title="Kangkung Organik">
+Kangkung Organik
+</a>
+<div class="product--price-info">
+<div class="price--unit">
+<?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+isi
+</span>
+<?php echo "<s"; ?>pan class="is--nowrap">
+100 Gram
+</span>
+<?php echo "<s"; ?>pan class="is--nowrap">
+(Rp 50,00
+/ 1 Gram)
+</span>
+</div>
+<div class="product--price">
+<?php echo "<s"; ?>pan class="price--default is--nowrap">
+Rp 5.000,00
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="tab--container">
+<div class="tab--header">
+<a href="#" class="tab--title" title="Pelanggan lain juga membeli">Pelanggan lain juga membeli</a>
+</div>
+<div class="tab--content content--also-bought"><?php echo $this->surrogate->handle($this, '/?module=widgets&controller=recommendation&action=bought&articleId=174', '', false) ?>
+</div>
+</div>
+<div class="tab--container">
+<div class="tab--header">
+<a href="#" class="tab--title" title="Pelanggan lain juga melihat">Pelanggan lain juga melihat</a>
+</div>
+<div class="tab--content content--also-viewed"><?php echo $this->surrogate->handle($this, '/?module=widgets&controller=recommendation&action=viewed&articleId=174', '', false) ?>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="last-seen-products is--hidden" data-last-seen-products="true">
+<div class="last-seen-products--title">
+Baru Dilihat
+</div>
+<div class="last-seen-products--slider product-slider" data-product-slider="true">
+<div class="last-seen-products--container product-slider--container"></div>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer-main">
+<div class="container">
+<div class="footer--columns block-group">
+<div class="footer--column column--hotline is--first block">
+<div class="column--headline">Service Hotline</div>
+<div class="column--content">
+<p class="column--desc">Layanan Informasi dan Kontak Telepon Hubungi:<br /><br /><a href="tel:+6281229671996" class="footer--phone-link">6281229671996</a><br/>setiap hari Kerja Senin-Jum'at Pukul 08:00Wib - 18:00Wib</p>
+</div>
+</div>
+<div class="footer--column column--menu block">
+<div class="column--headline">Shop Service</div>
+<nav class="column--navigation column--content">
+<ul class="navigation--list" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/defektes-produkt" title="Barang Cacat" target="_self">
+Barang Cacat
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/informasi-hukum" title="informasi  hukum">
+informasi  hukum
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/syarat-syarat-ketentuan" title="syarat-syarat ketentuan">
+syarat-syarat ketentuan
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="footer--column column--menu block">
+<div class="column--headline">informasi</div>
+<nav class="column--navigation column--content">
+<ul class="navigation--list" role="menu">
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/newsletter" title="Newsletter">
+Newsletter
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/tentang-kami" title="Tentang Kami">
+Tentang Kami
+</a>
+</li>
+<li class="navigation--entry" role="menuitem">
+<a class="navigation--link" href="http://utuawards.agrotrail.com/kebijakan-privasi" title="Kebijakan Privasi">
+Kebijakan Privasi
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="footer--column column--newsletter is--last block">
+<div class="column--headline">Newsletter</div>
+<div class="column--content">
+<p class="column--desc">
+Berlangganan Buletin Gratis, jangan sampai lewatkan setiap berita dan informasi Terbaru.
+</p>
+<form class="newsletter--form" action="http://utuawards.agrotrail.com/newsletter" method="post">
+<input type="hidden" value="1" name="subscribeToNewsletter" />
+<input type="email" name="newsletter" class="newsletter--field" placeholder="Alamat email Anda" />
+<button type="submit" class="newsletter--button btn">
+<i class="icon--mail"></i> <?php echo "<s"; ?>pan class="button--text">newsletter</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+<div class="footer--bottom">
+<div class="footer--vat-info">
+<p class="vat-info--text">
+* Semua harga belum termasukPajak PPN . <a title="biaya pengiriman" href="http://utuawards.agrotrail.com/custom/index/sCustom/6">biaya pengiriman</a> berbeda-beda sesuai tujuan. nomor resi di komfirmasi setelah pengiriman
+</p>
+</div>
+<div class="footer--copyright">
+Hak Cipta shopware AG - All rights reserved
+</div>
+<div class="footer--logo">
+<i class="icon--shopware"></i>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<?php echo "<s"; ?>cript type="text/javascript">
+//<![CDATA[
+var timeNow = 1447116821;
+var controller = controller || {
+'vat_check_enabled': '',
+'vat_check_required': '',
+'ajax_cart': 'http://utuawards.agrotrail.com/checkout/ajaxCart',
+'ajax_search': 'http://utuawards.agrotrail.com/ajax_search',
+'ajax_login': 'http://utuawards.agrotrail.com/account/ajax_login',
+'register': 'http://utuawards.agrotrail.com/register',
+'checkout': 'http://utuawards.agrotrail.com/checkout',
+'ajax_logout': 'http://utuawards.agrotrail.com/account/ajax_logout',
+'ajax_validate': 'http://utuawards.agrotrail.com/register',
+'ajax_add_article': 'http://utuawards.agrotrail.com/checkout/addArticle',
+'ajax_listing': '/widgets/Listing/ajaxListing',
+'ajax_cart_refresh': 'http://utuawards.agrotrail.com/checkout/ajaxAmount'
+};
+var snippets = snippets || {
+'noCookiesNotice': 'Ditemukan bahwa cookies dinonaktifkan pada browser Anda.  Agro SHop Untuk menggunakan layanan secara penuh, kami sarankan Anda Aktifkan cookies di browser Anda.'
+};
+var themeConfig = themeConfig || {
+'offcanvasOverlayPage': '1'
+};
+var lastSeenProductsConfig = lastSeenProductsConfig || {
+'baseUrl': '',
+'shopId': '1',
+'noPicture': '/themes/Frontend/Responsive/frontend/_public/src/img/no-picture.jpg',
+'productLimit': ~~('5'),
+'currentArticle': {                                        'articleId': ~~('174'),
+'linkDetailsRewritten': 'http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/174/pakis-seunagan?c=10',
+'articleName': 'Pakis Seunagan',
+'imageTitle': '',
+'images': {
+'0': {
+'source': 'http://utuawards.agrotrail.com/media/image/59/37/4b/IMG_0008-Copy_200x200.jpg',
+'retinaSource': 'http://utuawards.agrotrail.com/media/image/45/01/5c/IMG_0008-Copy_200x200@2x.jpg',
+'sourceSet': 'http://utuawards.agrotrail.com/media/image/59/37/4b/IMG_0008-Copy_200x200.jpg, http://utuawards.agrotrail.com/media/image/45/01/5c/IMG_0008-Copy_200x200@2x.jpg 2x'
+},
+'1': {
+'source': 'http://utuawards.agrotrail.com/media/image/d9/74/34/IMG_0008-Copy_600x600.jpg',
+'retinaSource': 'http://utuawards.agrotrail.com/media/image/e4/ce/69/IMG_0008-Copy_600x600@2x.jpg',
+'sourceSet': 'http://utuawards.agrotrail.com/media/image/d9/74/34/IMG_0008-Copy_600x600.jpg, http://utuawards.agrotrail.com/media/image/e4/ce/69/IMG_0008-Copy_600x600@2x.jpg 2x'
+},
+'2': {
+'source': 'http://utuawards.agrotrail.com/media/image/cc/05/ef/IMG_0008-Copy_1280x1280.jpg',
+'retinaSource': 'http://utuawards.agrotrail.com/media/image/90/80/4d/IMG_0008-Copy_1280x1280@2x.jpg',
+'sourceSet': 'http://utuawards.agrotrail.com/media/image/cc/05/ef/IMG_0008-Copy_1280x1280.jpg, http://utuawards.agrotrail.com/media/image/90/80/4d/IMG_0008-Copy_1280x1280@2x.jpg 2x'
+},
+}
+}
+};
+//]]>
+</script>
+<?php echo "<s"; ?>cript src="/web/cache/1446020211_75dccbcffe79383bb26592bbeb39f818.js"></script>
+<?php echo "<s"; ?>cript>
+(function($) {
+var cok = document.cookie.match(/session-1=([^;])+/g),
+sid = (cok && cok[0]) ? cok[0] : null,
+par = document.location.search.match(/sPartner=([^&])+/g),
+pid = (par && par[0]) ? par[0].substring(9) : null,
+cur = document.location.protocol + '//' + document.location.host,
+ref = document.referrer.indexOf(cur) === -1 ? document.referrer : null,
+url = "http://utuawards.agrotrail.com/widgets/index/refreshStatistic",
+pth = document.location.pathname.replace("/", "/");
+url = url.replace('https:', '');
+url = url.replace('http:', '');
+url += url.indexOf('?') === -1 ? '?' : '&';
+url += 'requestPage=' + encodeURI(pth);
+url += '&requestController=' + encodeURI("detail");
+if(sid) { url += '&' + sid; }
+if(pid) { url += '&partner=' + pid; }
+if(ref) { url += '&referer=' + encodeURI(ref); }
+url += '&articleId=' + encodeURI("174");
+$.ajax({ url: url, dataType: 'jsonp'});
+})(jQuery);
+</script>
+</body>
+</html>

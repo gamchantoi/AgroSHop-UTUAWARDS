@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:24:13
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-10 01:10:48
          compiled from "/home/gam/engine/Library/ExtJs/overrides/Ext.data.writer.Json.js" */ ?>
-<?php /*%%SmartyHeaderCode:12696913905633a7bd06baa6-06129725%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:26232196564136081f75d3-37793936%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,15 +11,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '12696913905633a7bd06baa6-06129725',
+  'nocache_hash' => '26232196564136081f75d3-37793936',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a7bd09da03_62794416',
+  'unifunc' => 'content_564136082138b2_80996283',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a7bd09da03_62794416')) {function content_5633a7bd09da03_62794416($_smarty_tpl) {?>/**
+<?php if ($_valid && !is_callable('content_564136082138b2_80996283')) {function content_564136082138b2_80996283($_smarty_tpl) {?>/**
  * Overwrite the json data writer to send the
  * associated data in the same request
  */

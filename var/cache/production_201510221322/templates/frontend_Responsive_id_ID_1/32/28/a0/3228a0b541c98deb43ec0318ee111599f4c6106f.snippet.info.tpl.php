@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:21:49
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-10 04:49:09
          compiled from "/home/gam/themes/Frontend/Bare/widgets/checkout/info.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17234434335633a72d4900e4-27943880%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:105720238956416935dac4a3-08390739%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17234434335633a72d4900e4-27943880',
+  'nocache_hash' => '105720238956416935dac4a3-08390739',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a72d574350_47450251',
+  'unifunc' => 'content_56416935ec17e0_16462810',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a72d574350_47450251')) {function content_5633a72d574350_47450251($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_currency')) include '/home/gam/engine/Library/Enlight/Template/Plugins/modifier.currency.php';
+<?php if ($_valid && !is_callable('content_56416935ec17e0_16462810')) {function content_56416935ec17e0_16462810($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_currency')) include '/home/gam/engine/Library/Enlight/Template/Plugins/modifier.currency.php';
 ?>
 
 	<li class="navigation--entry entry--notepad" role="menuitem">

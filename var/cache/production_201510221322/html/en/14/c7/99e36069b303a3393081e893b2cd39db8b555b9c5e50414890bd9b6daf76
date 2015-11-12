@@ -1,0 +1,217 @@
+    
+                    
+
+                                                                
+                
+                
+                <?php echo "<s"; ?>ection class="emotion--container emotion--column-4 emotion--mode-resize emotion--0"
+                         data-emotion="true"
+                         data-gridMode="resize"
+                         data-cellSpacing="10"
+                         data-fullscreen="false"
+                         data-columns="4"
+                         data-cellHeight="185"
+                         data-baseWidth="1160">
+
+                                                                        
+
+                                                                
+                                                                                                                                                                
+                                                                                                    
+                                <div class="emotion--element column--4 row--4"style="padding-left: 0.625rem;padding-bottom: 0.625rem;height: 48.75rem;top: 0rem;left: 0%;">    <div class="emotion--banner-slider image-slider"
+         data-image-slider="true"
+         data-thumbnails="false"
+         data-lightbox="false"
+         data-loopSlides="true"
+         data-animationSpeed="500"
+         data-arrowControls="true"
+         data-autoSlideInterval="5000"
+         data-autoSlide="false"
+         data-imageSelector=".image-slider--item">
+
+                    <div class="banner-slider--title">Produk Perikanan</div>
+        
+        
+            <div class="banner-slider--container image-slider--container">
+
+                
+                    <div class="banner-slider--slide image-slider--slide">
+
+                                                    
+                                <div class="banner-slider--item image-slider--item"
+                                     data-coverImage="true"
+                                     data-containerSelector=".banner-slider--banner"
+                                     data-width="1024"
+                                     data-height="768">
+
+                                    
+                                        <div class="banner-slider--banner">
+
+                                            
+                                                                                                                                                                                                            
+                                                                                                            
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                
+                                                <picture>
+                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/d9/11/be/Grobox-proj_800x800@2x.png 800w, http://utuawards.agrotrail.com/media/image/c1/4e/b5/Grobox-proj_1280x1280@2x.png 1280w, http://utuawards.agrotrail.com/media/image/85/22/55/Grobox-proj_1920x1920@2x.png 1920w" media="(min-resolution: 192dpi)" />                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/a3/a9/bc/Grobox-proj_800x800.png 800w, http://utuawards.agrotrail.com/media/image/4e/1e/73/Grobox-proj_1280x1280.png 1280w, http://utuawards.agrotrail.com/media/image/d0/75/de/Grobox-proj_1920x1920.png 1920w" />                                                    <img src="http://utuawards.agrotrail.com/media/image/a3/a9/bc/Grobox-proj_800x800.png" sizes="100vw" class="banner-slider--image" />
+                                                </picture>
+                                            
+                                        </div>
+                                    
+
+                                                                            
+                                            <a class="banner-slider--link" href="/produk-pertanian/" title="">
+                                                
+                                            </a>
+                                        
+                                                                    </div>
+                            
+                                                    
+                                <div class="banner-slider--item image-slider--item"
+                                     data-coverImage="true"
+                                     data-containerSelector=".banner-slider--banner"
+                                     data-width="1024"
+                                     data-height="768">
+
+                                    
+                                        <div class="banner-slider--banner">
+
+                                            
+                                                                                                                                                                                                            
+                                                                                                            
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                
+                                                <picture>
+                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/41/3d/f0/Grobox-proj-3_800x800@2x.png 800w, http://utuawards.agrotrail.com/media/image/84/31/77/Grobox-proj-3_1280x1280@2x.png 1280w, http://utuawards.agrotrail.com/media/image/a9/5e/b4/Grobox-proj-3_1920x1920@2x.png 1920w" media="(min-resolution: 192dpi)" />                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/52/14/7a/Grobox-proj-3_800x800.png 800w, http://utuawards.agrotrail.com/media/image/72/26/9c/Grobox-proj-3_1280x1280.png 1280w, http://utuawards.agrotrail.com/media/image/08/ce/e0/Grobox-proj-3_1920x1920.png 1920w" />                                                    <img src="http://utuawards.agrotrail.com/media/image/52/14/7a/Grobox-proj-3_800x800.png" sizes="100vw" class="banner-slider--image" />
+                                                </picture>
+                                            
+                                        </div>
+                                    
+
+                                                                            
+                                            <a class="banner-slider--link" href="/produk-perikanan/" title="">
+                                                
+                                            </a>
+                                        
+                                                                    </div>
+                            
+                                                    
+                                <div class="banner-slider--item image-slider--item"
+                                     data-coverImage="true"
+                                     data-containerSelector=".banner-slider--banner"
+                                     data-width="1024"
+                                     data-height="512">
+
+                                    
+                                        <div class="banner-slider--banner">
+
+                                            
+                                                                                                                                                                                                            
+                                                                                                            
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                
+                                                <picture>
+                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/53/8d/18/Produk-Kerajina-masyarakat_800x800@2x.png 800w, http://utuawards.agrotrail.com/media/image/b7/01/57/Produk-Kerajina-masyarakat_1280x1280@2x.png 1280w, http://utuawards.agrotrail.com/media/image/d3/52/32/Produk-Kerajina-masyarakat_1920x1920@2x.png 1920w" media="(min-resolution: 192dpi)" />                                                    <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/a1/a9/e2/Produk-Kerajina-masyarakat_800x800.png 800w, http://utuawards.agrotrail.com/media/image/67/d0/00/Produk-Kerajina-masyarakat_1280x1280.png 1280w, http://utuawards.agrotrail.com/media/image/e7/06/0d/Produk-Kerajina-masyarakat_1920x1920.png 1920w" />                                                    <img src="http://utuawards.agrotrail.com/media/image/a1/a9/e2/Produk-Kerajina-masyarakat_800x800.png" sizes="100vw" class="banner-slider--image" />
+                                                </picture>
+                                            
+                                        </div>
+                                    
+
+                                                                            
+                                            <a class="banner-slider--link" href="/produk-perikanan/" title="">
+                                                
+                                            </a>
+                                        
+                                                                    </div>
+                            
+                                            </div>
+                
+
+                
+                                    
+            </div>
+        
+    </div>
+</div>
+                            
+                                                    
+
+                                                                
+                                                                                                                                                                
+                                                                                                    
+                                <div class="emotion--element column--4 row--2"style="padding-left: 0.625rem;padding-bottom: 0.625rem;height: 24.375rem;top: 48.75rem;left: 0%;">    <div class="emotion--banner"
+         data-coverImage="true"
+         data-width="825"
+         data-height="436"
+         >
+
+        
+            <div class="banner--content center">
+
+                
+
+                                                                                            
+                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                    
+                    <picture>
+                        <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/b7/da/d6/udang-rebon-msg-alami2563376c8e7441b_800x800@2x.jpg 800w, http://utuawards.agrotrail.com/media/image/06/b0/23/udang-rebon-msg-alami2563376c8e7441b_1280x1280@2x.jpg 1280w, http://utuawards.agrotrail.com/media/image/74/09/6e/udang-rebon-msg-alami2563376c8e7441b_1920x1920@2x.jpg 1920w" media="(min-resolution: 192dpi)" />                        <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/51/f3/1b/udang-rebon-msg-alami2563376c8e7441b_800x800.jpg 800w, http://utuawards.agrotrail.com/media/image/b3/d2/19/udang-rebon-msg-alami2563376c8e7441b_1280x1280.jpg 1280w, http://utuawards.agrotrail.com/media/image/68/2d/ce/udang-rebon-msg-alami2563376c8e7441b_1920x1920.jpg 1920w" />                        <img src="http://utuawards.agrotrail.com/media/image/51/f3/1b/udang-rebon-msg-alami2563376c8e7441b_800x800.jpg" sizes="100vw" class="banner--image" />
+                    </picture>
+                
+
+                
+                
+                                            <a href="/detail/index/sArticle/177" class="banner--link"></a>
+                                    
+            </div>
+        
+    </div>
+</div>
+                            
+                                                    
+
+                                                                
+                                                                                                                                                                
+                                                                                                    
+                                <div class="emotion--element column--4 row--2"style="padding-left: 0.625rem;padding-bottom: 0.625rem;height: 24.375rem;top: 73.125rem;left: 0%;">    <div class="emotion--banner"
+         data-coverImage="true"
+         data-width="541"
+         data-height="494"
+         >
+
+        
+            <div class="banner--content center">
+
+                
+
+                                                                                            
+                                                    
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                    
+                    <picture>
+                        <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/cc/81/7c/blog-bayem563377b9aa15b56374b2761542_800x800@2x.jpg 800w, http://utuawards.agrotrail.com/media/image/b9/f1/67/blog-bayem563377b9aa15b56374b2761542_1280x1280@2x.jpg 1280w, http://utuawards.agrotrail.com/media/image/06/cf/5a/blog-bayem563377b9aa15b56374b2761542_1920x1920@2x.jpg 1920w" media="(min-resolution: 192dpi)" />                        <?php echo "<s"; ?>ource sizes="100vw" srcset="http://utuawards.agrotrail.com/media/image/28/61/d9/blog-bayem563377b9aa15b56374b2761542_800x800.jpg 800w, http://utuawards.agrotrail.com/media/image/41/32/85/blog-bayem563377b9aa15b56374b2761542_1280x1280.jpg 1280w, http://utuawards.agrotrail.com/media/image/67/56/ab/blog-bayem563377b9aa15b56374b2761542_1920x1920.jpg 1920w" />                        <img src="http://utuawards.agrotrail.com/media/image/28/61/d9/blog-bayem563377b9aa15b56374b2761542_800x800.jpg" sizes="100vw" class="banner--image" />
+                    </picture>
+                
+
+                
+                
+                                            <a href="/detail/index/sArticle/180" class="banner--link"></a>
+                                    
+            </div>
+        
+    </div>
+</div>
+                            
+                        
+                        
+                            
+                            <div class="emotion--sizer column--1" style="height: 97.5rem;"></div>
+                        
+                                    </section>
+            
+            

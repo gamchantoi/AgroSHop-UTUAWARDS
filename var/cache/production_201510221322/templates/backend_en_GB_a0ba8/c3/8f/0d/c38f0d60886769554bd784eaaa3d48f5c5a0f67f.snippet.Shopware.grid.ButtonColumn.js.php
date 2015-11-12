@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:24:15
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-10 01:10:50
          compiled from "/home/gam/themes/Backend/ExtJs/backend/base/component/Shopware.grid.ButtonColumn.js" */ ?>
-<?php /*%%SmartyHeaderCode:11818359685633a7bf49ff98-84497512%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8219012505641360abbc224-90970553%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,15 +11,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '11818359685633a7bf49ff98-84497512',
+  'nocache_hash' => '8219012505641360abbc224-90970553',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a7bf4fc977_23447493',
+  'unifunc' => 'content_5641360ac752e1_22111795',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a7bf4fc977_23447493')) {function content_5633a7bf4fc977_23447493($_smarty_tpl) {?>//Ext.require("Ext.button.Button");
+<?php if ($_valid && !is_callable('content_5641360ac752e1_22111795')) {function content_5641360ac752e1_22111795($_smarty_tpl) {?>//Ext.require("Ext.button.Button");
 
 Ext.define('Ext.ux.ButtonColumnMenuItem', {
     extend: 'Ext.menu.Item',

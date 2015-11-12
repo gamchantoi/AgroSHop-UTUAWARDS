@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:24:13
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-10 01:10:48
          compiled from "/home/gam/engine/Library/ExtJs/overrides/Ext.data.association.HasMany.js" */ ?>
-<?php /*%%SmartyHeaderCode:14156188375633a7bd1b9406-43805839%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14135384345641360829ba88-48504071%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,15 +11,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '14156188375633a7bd1b9406-43805839',
+  'nocache_hash' => '14135384345641360829ba88-48504071',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a7bd1ee249_67488283',
+  'unifunc' => 'content_564136082b4709_47399092',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a7bd1ee249_67488283')) {function content_5633a7bd1ee249_67488283($_smarty_tpl) {?>/**
+<?php if ($_valid && !is_callable('content_564136082b4709_47399092')) {function content_564136082b4709_47399092($_smarty_tpl) {?>/**
  * Override of the Ext.data.association.HasMany.
  * This override add shopware specify properties to the component.
  * Additionally this override allows the shopware default components,

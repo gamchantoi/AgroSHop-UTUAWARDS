@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:22:20
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-09 19:00:26
          compiled from "/home/gam/themes/Frontend/Bare/frontend/listing/filter/facet-currency-range.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1600616645633a74c3357a0-61610000%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:19798086985640df3a03f6d0-85175349%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -17,7 +17,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'parent',
     ),
   ),
-  'nocache_hash' => '1600616645633a74c3357a0-61610000',
+  'nocache_hash' => '19798086985640df3a03f6d0-85175349',
   'function' => 
   array (
   ),
@@ -35,9 +35,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a74c5394d8_77735580',
+  'unifunc' => 'content_5640df3a256c13_06741164',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a74c5394d8_77735580')) {function content_5633a74c5394d8_77735580($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_currency')) include '/home/gam/engine/Library/Enlight/Template/Plugins/modifier.currency.php';
+<?php if ($_valid && !is_callable('content_5640df3a256c13_06741164')) {function content_5640df3a256c13_06741164($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_currency')) include '/home/gam/engine/Library/Enlight/Template/Plugins/modifier.currency.php';
 ?>
 
 

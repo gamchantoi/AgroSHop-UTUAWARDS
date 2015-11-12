@@ -1,0 +1,616 @@
+            
+            <div class="topseller panel has--border is--rounded">
+                
+
+                    
+                        <div class="topseller--title panel--title is--underline">
+                            Topseller
+                        </div>
+                    
+
+                    
+                        <div class="topseller--content panel--body product-slider" data-topseller-slider="true">
+                            
+                                <div class="product-slider--container">
+                                    
+                                                                                    
+                                                <div class="product-slider--item">
+                                                    
+            
+
+    <div class="product--box box--slider"
+         data-page-index=""
+         data-ordernumber="SW10011"
+          data-category-id="">
+
+        
+            <div class="box--content is--rounded">
+
+                
+                
+                    
+
+
+	<div class="product--badges">
+
+		
+		
+					
+
+        
+        
+                    
+
+		
+		
+							<div class="product--badge badge--newcomer">
+					BARU
+				</div>
+					
+
+        
+        
+                    
+	</div>
+
+
+
+
+
+
+
+                
+
+                
+                    <div class="product--info">
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/produk-hasil-laut-lainya/177/udang-sabu-gampong-langkak"
+   title="Udang Sabu Gampong Langkak"
+   class="product--image">
+    
+        <?php echo "<s"; ?>pan class="image--element">
+            
+                <?php echo "<s"; ?>pan class="image--media">
+
+                    
+                    
+                        
+                        
+                            <img srcset="http://utuawards.agrotrail.com/media/image/21/04/ac/udang-rebon-msg-alami_200x200.jpg, http://utuawards.agrotrail.com/media/image/0d/72/50/udang-rebon-msg-alami_200x200@2x.jpg 2x"
+                                 alt="Udang Sabu Gampong Langkak"
+                                 title="Udang Sabu Gampong" />
+                        
+                                    </span>
+            
+        </span>
+    
+</a>                        
+
+                        
+                        
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produksi-kelautan/produk-hasil-laut-lainya/177/udang-sabu-gampong-langkak"
+                               class="product--title"
+                               title="Udang Sabu Gampong Langkak">
+                                Udang Sabu Gampong Langkak
+                            </a>
+                        
+
+                        
+                        
+
+                        
+                            <div class="product--price-info">
+
+                                
+                                
+                                    
+<div class="price--unit">
+
+    
+    
+        
+        
+            <?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+                isi
+            </span>
+        
+
+        
+        
+            <?php echo "<s"; ?>pan class="is--nowrap">
+                1 Kilogram
+            </span>
+        
+    
+    
+    </div>                                
+
+                                
+                                
+                                    
+<div class="product--price">
+
+    
+    
+        <?php echo "<s"; ?>pan class="price--default is--nowrap">
+                        Rp 40.000,00
+            
+        </span>
+    
+
+    
+    
+            
+</div>
+                                
+                            </div>
+                        
+
+                        
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+                                                    </div>
+                                            
+                                                                                    
+                                                <div class="product-slider--item">
+                                                    
+            
+
+    <div class="product--box box--slider"
+         data-page-index=""
+         data-ordernumber="SW10010"
+          data-category-id="">
+
+        
+            <div class="box--content is--rounded">
+
+                
+                
+                    
+
+
+	<div class="product--badges">
+
+		
+		
+					
+
+        
+        
+                    
+
+		
+		
+							<div class="product--badge badge--newcomer">
+					BARU
+				</div>
+					
+
+        
+        
+                    
+	</div>
+
+
+
+
+
+
+
+                
+
+                
+                    <div class="product--info">
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produk-air-tawar/lainnya/176/lokan-air-tawar-meurebo"
+   title="Lokan Air Tawar Meurebo"
+   class="product--image">
+    
+        <?php echo "<s"; ?>pan class="image--element">
+            
+                <?php echo "<s"; ?>pan class="image--media">
+
+                    
+                    
+                        
+                        
+                            <img srcset="http://utuawards.agrotrail.com/media/image/54/02/90/lokan-dan-cangkangnya_200x200.jpg, http://utuawards.agrotrail.com/media/image/1a/d0/81/lokan-dan-cangkangnya_200x200@2x.jpg 2x"
+                                 alt="Lokan Air Tawar Meurebo"
+                                 title="Lokan Air Tawar Meurebo" />
+                        
+                                    </span>
+            
+        </span>
+    
+</a>                        
+
+                        
+                        
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/produk-air-tawar/lainnya/176/lokan-air-tawar-meurebo"
+                               class="product--title"
+                               title="Lokan Air Tawar Meurebo">
+                                Lokan Air Tawar Meurebo
+                            </a>
+                        
+
+                        
+                        
+
+                        
+                            <div class="product--price-info">
+
+                                
+                                
+                                    
+<div class="price--unit">
+
+    
+    
+        
+        
+            <?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+                isi
+            </span>
+        
+
+        
+        
+            <?php echo "<s"; ?>pan class="is--nowrap">
+                1 Kilogram
+            </span>
+        
+    
+    
+    </div>                                
+
+                                
+                                
+                                    
+<div class="product--price">
+
+    
+    
+        <?php echo "<s"; ?>pan class="price--default is--nowrap">
+                        Rp 15.000,00
+            
+        </span>
+    
+
+    
+    
+            
+</div>
+                                
+                            </div>
+                        
+
+                        
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+                                                    </div>
+                                            
+                                                                                    
+                                                <div class="product-slider--item">
+                                                    
+            
+
+    <div class="product--box box--slider"
+         data-page-index=""
+         data-ordernumber="SW10005"
+          data-category-id="">
+
+        
+            <div class="box--content is--rounded">
+
+                
+                
+                    
+
+
+	<div class="product--badges">
+
+		
+		
+					
+
+        
+        
+                    
+
+		
+		
+							<div class="product--badge badge--newcomer">
+					BARU
+				</div>
+					
+
+        
+        
+                    
+	</div>
+
+
+
+
+
+
+
+                
+
+                
+                    <div class="product--info">
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/ikan/produk-hasil-laut/171/gurita-asin"
+   title="Gurita Asin"
+   class="product--image">
+    
+        <?php echo "<s"; ?>pan class="image--element">
+            
+                <?php echo "<s"; ?>pan class="image--media">
+
+                    
+                    
+                        
+                        
+                            <img srcset="http://utuawards.agrotrail.com/media/image/4b/db/8c/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200.jpg, http://utuawards.agrotrail.com/media/image/89/90/2a/dried-octopus-recipe-how-to-cook-dried-octopus-salted-baby-octopus_200x200@2x.jpg 2x"
+                                 alt="Gurita Asin"
+                                 title="Gurita Asin" />
+                        
+                                    </span>
+            
+        </span>
+    
+</a>                        
+
+                        
+                        
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/ikan/produk-hasil-laut/171/gurita-asin"
+                               class="product--title"
+                               title="Gurita Asin">
+                                Gurita Asin
+                            </a>
+                        
+
+                        
+                        
+
+                        
+                            <div class="product--price-info">
+
+                                
+                                
+                                    
+<div class="price--unit">
+
+    
+    
+        
+        
+            <?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+                isi
+            </span>
+        
+
+        
+        
+            <?php echo "<s"; ?>pan class="is--nowrap">
+                1 Kilogram
+            </span>
+        
+    
+    
+    </div>                                
+
+                                
+                                
+                                    
+<div class="product--price">
+
+    
+    
+        <?php echo "<s"; ?>pan class="price--default is--nowrap">
+                        Rp 50.000,00
+            
+        </span>
+    
+
+    
+    
+            
+</div>
+                                
+                            </div>
+                        
+
+                        
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+                                                    </div>
+                                            
+                                                                                    
+                                                <div class="product-slider--item">
+                                                    
+            
+
+    <div class="product--box box--slider"
+         data-page-index=""
+         data-ordernumber="SW10004"
+          data-category-id="">
+
+        
+            <div class="box--content is--rounded">
+
+                
+                
+                    
+
+
+	<div class="product--badges">
+
+		
+		
+					
+
+        
+        
+                    
+
+		
+		
+							<div class="product--badge badge--newcomer">
+					BARU
+				</div>
+					
+
+        
+        
+                    
+	</div>
+
+
+
+
+
+
+
+                
+
+                
+                    <div class="product--info">
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/ikan/produk-hasil-laut/170/ikan-kayu"
+   title="Ikan Kayu"
+   class="product--image">
+    
+        <?php echo "<s"; ?>pan class="image--element">
+            
+                <?php echo "<s"; ?>pan class="image--media">
+
+                    
+                    
+                        
+                        
+                            <img srcset="http://utuawards.agrotrail.com/media/image/fd/49/7e/2-Kisah-Sukses-Pengusaha-Pengolahan-Ikan-Asal-Aceh-Fauziah_1_200x200.jpg, http://utuawards.agrotrail.com/media/image/44/2e/4c/2-Kisah-Sukses-Pengusaha-Pengolahan-Ikan-Asal-Aceh-Fauziah_1_200x200@2x.jpg 2x"
+                                 alt="Ikan Kayu"
+                                 title="Ikan Kayu" />
+                        
+                                    </span>
+            
+        </span>
+    
+</a>                        
+
+                        
+                        
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-perikanan/ikan/produk-hasil-laut/170/ikan-kayu"
+                               class="product--title"
+                               title="Ikan Kayu">
+                                Ikan Kayu
+                            </a>
+                        
+
+                        
+                        
+
+                        
+                            <div class="product--price-info">
+
+                                
+                                
+                                    
+<div class="price--unit">
+
+    
+    
+        
+        
+            <?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+                isi
+            </span>
+        
+
+        
+        
+            <?php echo "<s"; ?>pan class="is--nowrap">
+                1 Kilogram
+            </span>
+        
+    
+    
+    </div>                                
+
+                                
+                                
+                                    
+<div class="product--price">
+
+    
+    
+        <?php echo "<s"; ?>pan class="price--default is--nowrap">
+                        Rp 140.000,00
+            
+        </span>
+    
+
+    
+    
+            
+</div>
+                                
+                            </div>
+                        
+
+                        
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+                                                    </div>
+                                            
+                                                                            
+                                </div>
+                            
+                        </div>
+                    
+                
+            </div>
+        
+    

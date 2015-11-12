@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-10-30 18:24:24
+<?php /* Smarty version Smarty-3.1.12, created on 2015-11-10 08:30:02
          compiled from "/home/gam/themes/Backend/ExtJs/backend/order/view/batch/form.js" */ ?>
-<?php /*%%SmartyHeaderCode:19286817145633a7c8686cf6-59059412%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:74814388056419cfa8d6663-67596983%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,15 +11,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19286817145633a7c8686cf6-59059412',
+  'nocache_hash' => '74814388056419cfa8d6663-67596983',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5633a7c87edb18_06844716',
+  'unifunc' => 'content_56419cfaa2a5e8_77048156',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5633a7c87edb18_06844716')) {function content_5633a7c87edb18_06844716($_smarty_tpl) {?>/**
+<?php if ($_valid && !is_callable('content_56419cfaa2a5e8_77048156')) {function content_56419cfaa2a5e8_77048156($_smarty_tpl) {?>/**
  * Shopware 5
  * Copyright (c) shopware AG
  *

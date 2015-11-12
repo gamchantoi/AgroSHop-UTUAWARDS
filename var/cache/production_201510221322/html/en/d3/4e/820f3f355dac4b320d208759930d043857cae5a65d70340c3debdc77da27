@@ -1,0 +1,63 @@
+
+
+    <div class="offcanvas--overlay">
+
+        
+            <div class="overlay--headline">
+                
+                    <a class="navigation--link link--go-main" href="#" title="main menu">
+                        <i class="icon--menu"></i> main menu
+                    </a>
+                
+            </div>
+        
+
+        
+            <div class="overlay--category">
+                
+                    <a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" title="Sayuran">
+                        <?php echo "<s"; ?>pan class="category--headline">Sayuran</span>
+                    </a>
+                
+            </div>
+        
+
+        
+            <ul class="sidebar--navigation categories--sublevel navigation--list" role="menu">
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="/widgets/listing/getCategory/categoryId/8" data-parentId="8" class="navigation--link is--back-button link--go-back" title="sebelumnya">
+                                
+                                    <?php echo "<s"; ?>pan class="is--icon-left">
+                                        <i class="icon--arrow-left"></i>
+                                    </span>
+                                
+
+                                
+                                    sebelumnya
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                
+                    <li class="navigation--entry" role="menuitem">
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/sayuran/" title="  Sayuran Tampilkan" class="navigation--link is--display-button">
+                                
+                                      Sayuran Tampilkan
+                                
+                            </a>
+                        
+                    </li>
+                
+
+                
+                            </ul>
+        
+    </div>

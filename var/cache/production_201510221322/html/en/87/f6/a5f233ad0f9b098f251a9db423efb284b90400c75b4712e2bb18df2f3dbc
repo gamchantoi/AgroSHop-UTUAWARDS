@@ -1,0 +1,156 @@
+    
+        <div class="bought--content panel--body">
+            <div class="product-slider" data-product-slider="true">
+                
+                    <div class="product-slider--container">
+                                                    <div class="product-slider--item">
+                                
+            
+
+    <div class="product--box box--slider"
+         data-page-index=""
+         data-ordernumber="SW10006"
+          data-category-id="11">
+
+        
+            <div class="box--content is--rounded">
+
+                
+                
+                    
+
+
+	<div class="product--badges">
+
+		
+		
+					
+
+        
+        
+                    
+
+		
+		
+							<div class="product--badge badge--newcomer">
+					BARU
+				</div>
+					
+
+        
+        
+                    
+	</div>
+
+
+
+
+
+
+
+                
+
+                
+                    <div class="product--info">
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/buah-buahan/172/jeruk-nipis-seunagan-farmer"
+   title="Jeruk Nipis Seunagan Farmer"
+   class="product--image">
+    
+        <?php echo "<s"; ?>pan class="image--element">
+            
+                <?php echo "<s"; ?>pan class="image--media">
+
+                    
+                    
+                        
+                        
+                            <img srcset="http://utuawards.agrotrail.com/media/image/65/ed/a0/Buah-Jeruk-Nipis-Mengobati-penyakit-Sesak-Nafas-Secara-Alami_200x200.jpg, http://utuawards.agrotrail.com/media/image/5e/49/7a/Buah-Jeruk-Nipis-Mengobati-penyakit-Sesak-Nafas-Secara-Alami_200x200@2x.jpg 2x"
+                                 alt="Jeruk Nipis Seunagan Farmer"
+                                 title="Jeruk Nipis Seunagan" />
+                        
+                                    </span>
+            
+        </span>
+    
+</a>                        
+
+                        
+                        
+
+                        
+                        
+                            <a href="http://utuawards.agrotrail.com/produk-pertanian/sayuran-dan-buah/buah-buahan/172/jeruk-nipis-seunagan-farmer"
+                               class="product--title"
+                               title="Jeruk Nipis Seunagan Farmer">
+                                Jeruk Nipis Seunagan Farmer
+                            </a>
+                        
+
+                        
+                        
+
+                        
+                            <div class="product--price-info">
+
+                                
+                                
+                                    
+<div class="price--unit">
+
+    
+    
+        
+        
+            <?php echo "<s"; ?>pan class="price--label label--purchase-unit is--bold is--nowrap">
+                isi
+            </span>
+        
+
+        
+        
+            <?php echo "<s"; ?>pan class="is--nowrap">
+                1 Kilogram
+            </span>
+        
+    
+    
+    </div>                                
+
+                                
+                                
+                                    
+<div class="product--price">
+
+    
+    
+        <?php echo "<s"; ?>pan class="price--default is--nowrap">
+                        Rp 4.000,00
+            
+        </span>
+    
+
+    
+    
+            
+</div>
+                                
+                            </div>
+                        
+
+                        
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+                                </div>
+                                            </div>
+                
+            </div>
+        </div>
+    

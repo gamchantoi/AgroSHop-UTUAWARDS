@@ -1,0 +1,49 @@
+{
+    "previousProduct": {
+        "orderNumber": "SW10001",
+        "link": "shopware.php?sViewport=detail\u0026sDetails=167\u0026sCategory=10",
+        "name": "Kangkung Organik",
+        "image": {
+            "id": 571,
+            "position": 1,
+            "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/4b\/cc\/d0\/kang-kong.png",
+            "description": "",
+            "extension": "png",
+            "main": true,
+            "parentId": null,
+            "width": 800,
+            "height": 600,
+            "thumbnails": [
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/d5\/96\/e4\/kang-kong_200x200.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/0e\/89\/d8\/kang-kong_200x200@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/d5\/96\/e4\/kang-kong_200x200.png, http:\/\/utuawards.agrotrail.com\/media\/image\/0e\/89\/d8\/kang-kong_200x200@2x.png 2x",
+                    "maxWidth": "200",
+                    "maxHeight": "200"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/c7\/d4\/eb\/kang-kong_600x600.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/24\/b5\/7f\/kang-kong_600x600@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/c7\/d4\/eb\/kang-kong_600x600.png, http:\/\/utuawards.agrotrail.com\/media\/image\/24\/b5\/7f\/kang-kong_600x600@2x.png 2x",
+                    "maxWidth": "600",
+                    "maxHeight": "600"
+                },
+                {
+                    "source": "http:\/\/utuawards.agrotrail.com\/media\/image\/fd\/55\/e8\/kang-kong_1280x1280.png",
+                    "retinaSource": "http:\/\/utuawards.agrotrail.com\/media\/image\/a4\/63\/72\/kang-kong_1280x1280@2x.png",
+                    "sourceSet": "http:\/\/utuawards.agrotrail.com\/media\/image\/fd\/55\/e8\/kang-kong_1280x1280.png, http:\/\/utuawards.agrotrail.com\/media\/image\/a4\/63\/72\/kang-kong_1280x1280@2x.png 2x",
+                    "maxWidth": "1280",
+                    "maxHeight": "1280"
+                }
+            ],
+            "attribute": []
+        },
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/sayuran\/167\/kangkung-organik?c=10"
+    },
+    "currentListing": {
+        "position": 3,
+        "totalCount": 3,
+        "link": "shopware.php?sViewport=cat\u0026sCategory=10",
+        "href": "http:\/\/utuawards.agrotrail.com\/produk-pertanian\/sayuran-dan-buah\/sayuran\/"
+    }
+}
